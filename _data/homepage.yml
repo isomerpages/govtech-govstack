@@ -17,8 +17,8 @@ hero-banner: /images/hero-banner.png
 
 #Call to Action Button
 button:
-  - text: Learn More
-    url: /who-we-are/
+  - text: RSVP NOW
+    url: https://rsvp.govtechstack.sg
     
 key-highlights:
   - title: Highlight A
