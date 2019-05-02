@@ -24,9 +24,9 @@ key-highlights:
     external: true
   - title: PAST VIDEO ARCHIVES
     description: Youtubeyoutube
-    url: /page-A/
+    url: https://www.youtube.com/watch?v=W50PMn-5dzw&list=PLEpmxnWUCornW_6agUoJvtWJ-gKumhgJx
 
 resources-title: Resources
 resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
+resources-more-button: View the Speakers' Bio
+resources-more-button-url: /speakers-bio
