@@ -11,26 +11,20 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: 28 MAY 2019
-hero-subtitle: Suntec Singapore, Convention & Exhibition Centre, Nicoll Room 1, Level 3
 hero-banner: /images/hero-banner.png
-
-#Call to Action Button
-button:
-  - text: RSVP NOW
-    url: https://rsvp.govtechstack.sg
+hero-button: asdasdasdadadasdasa
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
+  - title: RSVP NOW
+    description: Link to RSVP page
     url: https://google.com
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
+  - title: STACK-X: CLOUD 2018
+    description: Past 2018 page internal
     url: https://yahoo.com
     external: true
-  - title: Page A
-    description: Page A is important too
+  - title: PAST VIDEO ARCHIVES
+    description: Youtubeyoutube
     url: /page-A/
 
 resources-title: Resources
