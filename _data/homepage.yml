@@ -15,15 +15,15 @@ hero-banner: /images/hero-banner.png
     
 key-highlights:
   - title: RSVP NOW
-    description: Link to RSVP page
+    description: Register your seats now
     url: https://rsvp.govtechstack.sg
     external: true
-  - title: STACK-X: CLOUD 2018
-    description: Past 2018 page internal
+  - title: STACK-X: Cloud 2018 
+    description: STACK-X: CLOUD 2018 Official Page 
     url: https://govtechstack.sg
     external: true
-  - title: PAST VIDEO ARCHIVES
-    description: Youtubeyoutube
+  - title: Video Gallery
+    description: STACK-X: Cloud 2018 Video Highlights
     url: https://www.youtube.com/watch?v=W50PMn-5dzw&list=PLEpmxnWUCornW_6agUoJvtWJ-gKumhgJx
 
 resources-title: Resources
