@@ -53,5 +53,8 @@ info-sections:
     section-image-path: /images/breakout.png 
 
 # Speakers Bio Sections
+# Resources Section
+resources-title: OVERVIEW
+resources-subtitle: BREAKOUT TRACKS
 resources-more-button: View the Speakers' Bio
 resources-more-button-url: /speakers-bio
