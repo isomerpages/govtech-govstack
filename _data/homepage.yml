@@ -32,29 +32,29 @@ key-highlights:
 resources-title: About
 resources-subtitle: STACK-X CLoud 2019
   
-**STACK-X: Cloud** is a half-day technology event organised by the Government Technology Agency to share government commercial cloud policy and playbook with developers and technologists from the public and private sectors.  
-Attendees will also learn about how to deploy infrastructure-as-code, build apps and API development in the cloud environment during workshops led by GovTech engineers.
+# **STACK-X: Cloud** is a half-day technology event organised by the Government Technology Agency to share government commercial cloud policy and playbook with developers and technologists from the public and private sectors.  
+# Attendees will also learn about how to deploy infrastructure-as-code, build apps and API development in the cloud environment during workshops led by GovTech engineers.
   
   
   
 ## **Programmes**  
 ### **STACK-X: Cloud Main Session**  
-| Time | Session Details |
-|---|---|
-| 1.00 pm  | Registration  |
-| 1.30 pm  | Welcome Remarks  Chan Cheow Hoe, Government Chief Digital Technology
-Officer |
-| 1.40 pm  | Keynote  Gregor Hohpe  |
-| 2.10 pm  | Continuous Delivery for Enterprise DevOps  Clement Wong, Cloud Solution Strategist, VMWare |
-| 2.40 pm  | Fireside chat on “Modernising the software supply chain with Infrastructure-as-Code”: |
-| 3.15 pm  | Networking Break  |
+#| Time | Session Details |
+#|---|---|
+#| 1.00 pm  | Registration  |
+#| 1.30 pm  | Welcome Remarks  Chan Cheow Hoe, Government Chief Digital Technology
+#Officer |
+#| 1.40 pm  | Keynote  Gregor Hohpe  |
+#| 2.10 pm  | Continuous Delivery for Enterprise DevOps  Clement Wong, Cloud Solution Strategist, VMWare |
+#| 2.40 pm  | Fireside chat on “Modernising the software supply chain with Infrastructure-as-Code”: |
+#| 3.15 pm  | Networking Break  |
   
   
-### **STACK-X: Cloud Breakout Session**  
-| Time | Session Details  |
-|---|---|
-| 3.30 pm   | **Track 1**  Deep dive into Government on Commercial Cloud - Design and Implementation    **Track 2**  API Market Place - MyInfo as a case study    **Track 3**  Terraform basics for Government Commercial Cloud (Fee: +S$50)  |
-| 5.30 pm  | End of STACK-X: Cloud  |
+# ### **STACK-X: Cloud Breakout Session**  
+#| Time | Session Details  |
+#|---|---|
+#| 3.30 pm   | **Track 1**  Deep dive into Government on Commercial Cloud - Design and Implementation    **Track 2**  API Market Place - MyInfo as a case study    **Track 3**  Terraform basics for Government Commercial Cloud (Fee: +S$50)  |
+#| 5.30 pm  | End of STACK-X: Cloud  |
 
 
 resources-more-button: View the Speakers' Bio
