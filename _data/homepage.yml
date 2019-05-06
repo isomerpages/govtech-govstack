@@ -50,7 +50,7 @@ info-sections:
     section-description: Discover the Breakout Session
     section-more-button: Reserve a Seat Now
     section-more-button-url: https://rsvp.govtechstack.sg
-    section-image-path: /images/programme.png 
+    section-image-path: /images/breakout.png 
 
 # Speakers Bio Sections
 resources-more-button: View the Speakers' Bio
