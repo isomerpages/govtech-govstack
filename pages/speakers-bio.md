@@ -54,7 +54,7 @@ title: Speakers' Bio
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/speakers-presenters/user-icon.png" alt="Cameron Huysmans">
+        <img src="/images/dummy.png" alt="Cameron Huysmans">
     </div>
     <div class="col is-8">
         <p class="title is-4">Cameron Huysmans</p>
