@@ -46,7 +46,7 @@ info-sections:
     
 # Speakers Bio Sections
 # About Section
-programmes-title: ABOUT
+programmes-title: WHAT IS
 programmes-subtitle: STACK-X Cloud
 programmes-description: STACK-X CLOUD is a half-day technology event organised by the Government Technology Agency to share government commercial cloud policy and playbook with developers and technologists from the public and private sectors. Attendees will also learn about how to deploy infrastructure-as-code, build apps and API development in the cloud environment during workshops led by GovTech engineers.
 programmes-more-button: View the Speakers' Bio
