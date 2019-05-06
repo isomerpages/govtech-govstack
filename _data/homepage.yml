@@ -28,12 +28,17 @@ key-highlights:
   - title: Speakers' Bio
     description: STACK-X Cloud 2019 Featured Speakers 
     url: /speakers-bio
-
-resources-title: About
-resources-subtitle: The Programme
     
-# Programme
-image-url:/images/programme.png
+# Programme Sections
+info-sections:
+  - section-title: ABOUT
+    section-subtitle: THE PROGRAMME
+    section-description: Take a look at the highlights of the event
+    section-image-path: /images/programme.png 
+
+
+resources-title: ABOUT
+resources-subtitle: The Breakout Tracks
 
 resources-more-button: View the Speakers' Bio
 resources-more-button-url: /speakers-bio
