@@ -18,19 +18,19 @@ key-highlights:
     description: Register your seats now
     url: https://rsvp.govtechstack.sg
     external: true
-  - title: STACK-X: Cloud 2018 
-    description: STACK-X: CLOUD 2018 Official Page 
+  - title: STACK-X Cloud 2018 
+    description: STACK-X CLOUD 2018 Official Page 
     url: https://govtechstack.sg
     external: true
   - title: Video Gallery
-    description: STACK-X: Cloud 2018 Video Highlights
+    description: STACK-X Cloud 2018 Video Highlights
     url: https://www.youtube.com/watch?v=W50PMn-5dzw&list=PLEpmxnWUCornW_6agUoJvtWJ-gKumhgJx
   - title: Speakers' Bio
-    description: STACK-X: Cloud 2019 Featured Speakers 
+    description: STACK-X Cloud 2019 Featured Speakers 
     url: /speakers-bio
 
 resources-title: About
-resources-subtitle: STACK-X: CLoud 2019
+resources-subtitle: STACK-X CLoud 2019
   
 **STACK-X: Cloud** is a half-day technology event organised by the Government Technology Agency to share government commercial cloud policy and playbook with developers and technologists from the public and private sectors.  
 Attendees will also learn about how to deploy infrastructure-as-code, build apps and API development in the cloud environment during workshops led by GovTech engineers.
