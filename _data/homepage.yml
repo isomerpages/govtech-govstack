@@ -36,7 +36,7 @@ info-sections:
     section-description: Take a look at the highlights of the event
     section-image-path: /images/programme.png 
 
-
+# Breakout Sections
 resources-title: ABOUT
 resources-subtitle: The Breakout Tracks
 
