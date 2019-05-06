@@ -31,8 +31,9 @@ key-highlights:
 
 resources-title: About
 resources-subtitle: The Programme
-
-
+    
+# Programme
+image-url:/images/programme.png
 
 resources-more-button: View the Speakers' Bio
 resources-more-button-url: /speakers-bio
