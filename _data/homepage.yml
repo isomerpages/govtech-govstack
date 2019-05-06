@@ -45,7 +45,7 @@ info-sections:
     section-image-path: /images/breakout.png
     
  # Resources Section
-resources-title: Are you Ready?
-resources-subtitle: RSVP TODAY
-resources-more-button: Proceed to RSVP
-resources-more-button-url: https://rsvp.govtechstack.sg
+resources-title: FIND OUT
+resources-subtitle: SPEAKERS' BIO
+resources-more-button: Click Here
+resources-more-button-url: /speakers-bio
