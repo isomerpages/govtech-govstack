@@ -47,8 +47,8 @@ info-sections:
     section-image-path: /images/programme.png 
   - section-title: OVERVIEW
     section-subtitle: BREAKOUT TRACKS
-    section-description: Discover the Breakout Session
-    section-more-button: Reserve a Seat Now
+    section-description: Discover the Breakout Sessions
+    section-more-button: Participate Now
     section-more-button-url: https://rsvp.govtechstack.sg
     section-image-path: /images/breakout.png 
 
