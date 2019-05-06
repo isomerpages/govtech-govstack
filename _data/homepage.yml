@@ -25,6 +25,12 @@ key-highlights:
     
 # The Programme Sections
 info-sections:
+  - section-title: WHAT IS
+    section-subtitle: "STACK-X: Cloud"
+    section-description: STACK-X CLOUD is a half-day technology event organised by the Government Technology Agency to share government commercial cloud policy and playbook with developers and technologists from the public and private sectors. Attendees will also learn about how to deploy infrastructure-as-code, build apps and API development in the cloud environment during workshops led by GovTech engineers.
+    section-more-button: Participate Now
+    section-more-button-url: https://rsvp.govtechstack.sg
+    section-image-path: /images/breakout.png 
   - section-title: ABOUT
     section-subtitle: THE PROGRAMME
     section-description: Take a look at the highlights of the event
@@ -36,11 +42,5 @@ info-sections:
     section-description: Discover the Breakout Sessions
     section-more-button: Participate Now
     section-more-button-url: https://rsvp.govtechstack.sg
-    section-image-path: /images/breakout.png 
-    
-# Breakout Section
-# To edit the careers details, go to breakout.yml
-breakout-title: WHAT IS
-breakout-subtitle: STACK-X Cloud
-breakout-description: STACK-X CLOUD is a half-day technology event organised by the Government Technology Agency to share government commercial cloud policy and playbook with developers and technologists from the public and private sectors. Attendees will also learn about how to deploy infrastructure-as-code, build apps and API development in the cloud environment during workshops led by GovTech engineers.
-    
+    section-image-path: /images/breakout.png
+
