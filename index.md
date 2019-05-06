@@ -1,5 +1,5 @@
 ---
 layout: homepage
-title: STACK-X: Cloud
+title: "STACK-X: Cloud"
 permalink: /
 ---
