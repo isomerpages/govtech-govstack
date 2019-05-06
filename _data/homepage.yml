@@ -29,6 +29,14 @@ key-highlights:
     description: STACK-X Cloud 2019 Featured Speakers 
     url: /speakers-bio
     
+# About the Programme Section
+programmes-title: 
+programmes-subtitle: ABOUT STACK-X CLOUD
+programmes-description: STACK-X:CLOUD is a half-day technology event organised by the Government Technology Agency to share government commercial cloud policy and playbook with developers and technologists from the public and private sectors.
+Attendees will also learn about how to deploy infrastructure-as-code, build apps and API development in the cloud environment during workshops led by GovTech engineers.
+programmes-more-button: Register Now
+programmes-more-button-url: https://rsvp.govtechstack.sg
+    
 # Programme Sections
 info-sections:
   - section-title: ABOUT
