@@ -34,11 +34,16 @@ info-sections:
   - section-title: ABOUT
     section-subtitle: THE PROGRAMME
     section-description: Take a look at the highlights of the event
+    section-more-button: Register Now
+    section-more-button-url: https://rsvp.govtechstack.sg
+    section-image-path: /images/programme.png 
+  - section-title: OVERVIEW
+    section-subtitle: BREAKOUT TRACKS
+    section-description: Discover the Breakout Session
+    section-more-button: Reserve a Seat Now
+    section-more-button-url: https://rsvp.govtechstack.sg
     section-image-path: /images/programme.png 
 
-# Breakout Sections
-resources-title: ABOUT
-resources-subtitle: The Breakout Tracks
-
+# Speakers Bio Sections
 resources-more-button: View the Speakers' Bio
 resources-more-button-url: /speakers-bio
