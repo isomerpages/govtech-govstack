@@ -34,7 +34,7 @@ info-sections:
     section-image-path: /images/about.jpg 
   - section-title: 
     section-subtitle: PROGRAMME
-    section-description: Overview of "STACK-X: Cloud"
+    section-description: "Overview of STACK-X: Cloud"
     section-more-button: Register Now
     section-more-button-url: https://rsvp.govtechstack.sg
     section-image-path: /images/programme.png 
