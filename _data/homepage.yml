@@ -16,8 +16,8 @@ key-highlights:
     description: Details on our Featured Speakers 
     url: /speakers-bio
   - title: Programme
-    description: STACK-X CLOUD Programme 
-    url: https://govtechstack.sg
+    description: "STACK-X: Cloud Programme"
+    url: /
     external: true
   - title: STACK 2018
     description: Highlights of STACK 2018 
