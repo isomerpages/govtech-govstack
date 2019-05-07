@@ -12,40 +12,41 @@ key-highlights:
     description: Register your seats now
     url: https://rsvp.govtechstack.sg
     external: true
-  - title: STACK-X Cloud 2018 
-    description: STACK-X CLOUD 2018 Official Page 
+  - title: Speakers' Bio
+    description: Details on our Featured Speakers 
+    url: /speakers-bio
+  - title: Programme
+    description: STACK-X CLOUD Programme 
     url: https://govtechstack.sg
     external: true
-  - title: Video Gallery
-    description: STACK-X Cloud 2018 Video Highlights
-    url: https://www.youtube.com/watch?v=W50PMn-5dzw&list=PLEpmxnWUCornW_6agUoJvtWJ-gKumhgJx
-  - title: Speakers' Bio
-    description: STACK-X Cloud 2019 Featured Speakers 
-    url: /speakers-bio
+  - title: STACK 2018
+    description: Highlights of STACK 2018 
+    url: /stack-2018
+
     
 # The Programme Sections
 info-sections:
-  - section-title: WHAT IS
+  - section-title: 
     section-subtitle: "STACK-X: Cloud"
     section-description: A half-day technology event organised by the Government Technology Agency to share government commercial cloud policy and playbook with developers and technologists from the public and private sectors. Attendees will also learn about how to deploy infrastructure-as-code, build apps and API development in the cloud environment during workshops led by GovTech engineers.
     section-more-button: Participate Now
     section-more-button-url: https://rsvp.govtechstack.sg
     section-image-path: /images/about.jpg 
-  - section-title: ABOUT
-    section-subtitle: THE PROGRAMME
-    section-description: Take a look at the highlights of the event
+  - section-title: 
+    section-subtitle: PROGRAMME
+    section-description: Overview of "STACK-X: Cloud"
     section-more-button: Register Now
     section-more-button-url: https://rsvp.govtechstack.sg
     section-image-path: /images/programme.png 
-  - section-title: OVERVIEW
+  - section-title: 
     section-subtitle: BREAKOUT TRACKS
-    section-description: Discover the Breakout Sessions
+    section-description: Workshops and deep-dive sessions lead by GovTech Engineers
     section-more-button: Participate Now
     section-more-button-url: https://rsvp.govtechstack.sg
     section-image-path: /images/breakout.png
     
  # Resources Section
-resources-title: FIND OUT
+resources-title: 
 resources-subtitle: SPEAKERS' BIO
 resources-more-button: Click Here
 resources-more-button-url: /speakers-bio
