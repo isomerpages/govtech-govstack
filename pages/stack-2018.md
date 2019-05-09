@@ -218,6 +218,3 @@ Highlights of STACK 2018
     <td colspan="7"><span style="font-weight:bolder">End of Conference</span></td>
   </tr>
 </table>
-<sub>*Programme is subject to change.</sub><br>
-
-
