@@ -36,12 +36,12 @@ Clement brings with him almost a decade of experience in the technology field si
 ## **STACK-X: Cloud Breakout Session Facilitators**
 
 ### **Jason Zheng, Solution Architect, Government Technology Agency**
-## API Market Place - MyInfo as a Case Study
+#### API Market Place - MyInfo as a Case Study
 
 Jason is a Solution Architect from MyInfo team, under the National Digital Identity programme (NDI). He has over 10 years of experience in providing solutions and application development. A certified Scrum Master and DevOps practitioner, Jason enjoys tinkering with technology, and is currently exploring cloud technologies.
 
 ### **Melvin Wong, Lead Infrastructure Engineer for Government on Commercial Cloud, Government Technology Agency**
-## Deep Dive into Government on Commercial Cloud Design and Implementation 
+#### Deep Dive into Government on Commercial Cloud Design and Implementation 
 
 Before joining GovTech, he was the Technical Delivery Architect with StarHub and was responsible for leading systems and Cloud engagement with StarHub’s enterprise customers. Melvin has built several private Clouds in his previous employments.
 To add to his extensive technical knowledge, Melvin holds several professional certifications: MCSE, MCSA in Azure, ITIL, VCP, to name a few.
