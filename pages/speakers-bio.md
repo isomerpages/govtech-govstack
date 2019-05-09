@@ -48,3 +48,6 @@ To add to his extensive technical knowledge, Melvin holds several professional c
 
 Jason is a Solution Architect from MyInfo team, under the National Digital Identity programme (NDI). He has over 10 years of experience in providing solutions and application development. A certified Scrum Master and DevOps practitioner, Jason enjoys tinkering with technology, and is currently exploring cloud technologies.
 
+### **Samuel Loh, Software Engineer, Application Infrastructure, Government Technology Agency**
+
+Samuel has been working with GovTech for four years, building applications and automating infrastructure as much as possible. A polyglot programmer, he dabbles in everything , including Linux system administration, containerisation and public key infrastructure systems.
