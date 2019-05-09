@@ -1,9 +1,3 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 # Favicon
 favicon: /images/favicon-isomer.ico
 
@@ -11,29 +5,47 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
 hero-banner: /images/hero-banner.png
-
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
-    
+  
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: RSVP NOW
+    description: Register your seats now
+    url: https://rsvp.govtechstack.sg
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+  - title: Speakers' Bio
+    description: Details of Speakers & Facilitators 
+    url: /speakers-bio
+  - title: Programme
+    description: "STACK-X: Cloud Programme"
+    url: /
     external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+  - title: STACK 2018
+    description: Highlights of STACK 2018 
+    url: /stack-2018
 
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
+# The Programme Sections
+info-sections:
+  - section-title: 
+    section-subtitle: "STACK-X: Cloud"
+    section-description: A half-day technology event organised by the Government Technology Agency to share government commercial cloud policy and playbook with developers and technologists from the public and private sectors. Attendees will also learn about how to deploy infrastructure-as-code, build apps and API development in the cloud environment during workshops led by GovTech engineers.
+    section-more-button: Participate Now
+    section-more-button-url: https://rsvp.govtechstack.sg
+    section-image-path: /images/about.jpg 
+  - section-title: 
+    section-subtitle: PROGRAMME
+    section-description: "Overview of STACK-X: Cloud"
+    section-more-button: Register Now
+    section-more-button-url: https://rsvp.govtechstack.sg
+    section-image-path: /images/programme.png 
+  - section-title: 
+    section-subtitle: BREAKOUT TRACKS
+    section-description: Workshops and deep-dive sessions lead by GovTech Engineers
+    section-more-button: Participate Now
+    section-more-button-url: https://rsvp.govtechstack.sg
+    section-image-path: /images/breakout.png
+    
+ # Resources Section
+resources-title: 
+resources-subtitle: SPEAKERS' BIO
+resources-more-button: Click Here
+resources-more-button-url: /speakers-bio

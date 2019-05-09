@@ -1,5 +1,5 @@
-title: Title
-title-abbreviated: Title
+title: "STACK-X: Cloud"
+title-abbreviated: "STACK-X: Cloud"
 description: >- # this means to ignore newlines until "baseurl:"
   Description
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -45,4 +45,4 @@ collections:
     output: true
   left-nav-two:
     output: true
-resources_name: resource-room
+resources_name: breakout

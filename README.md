@@ -1,11 +1,12 @@
-# Welcome to Isomer Pages!
+# STACK-X: Cloud 
 
-## Why Markdown and YAML?
+## 28 MAY 2019 at Suntec Singapore Convention and Exhibition Centre, Nicoll Room 1, Level 3
 
-Traditionally, in order to edit a website, one had to write in pure HTML. This is challenging for website administrators who had limited experience with HTML as it is not immediately readable or intuitive to non-experienced users. 
+Sign up now at https://rsvp.govtechstack.sg
 
-Our team decided to go with Markdown (.md) – more human readable syntax – so as to empower non-technical website administrators.
+### Developer's Feedback
+1. Remove Footer Menus (Pending) - Privacy Statement, Terms of Use, Contact Us, Feedback, FAQ
+2. Deletion of Pages (Done) - Privacy Statement, Terms of Use, Contact Us, Feedback, FAQ
+3. Added Speakers Bio Page
 
-While Markdown is appropriate for writing long segments of text, it alone does not allow users to edit small details of the website (e.g. change the hero-banner image) without diving into the HTML.
 
-We therefore chose to supplement the Markdown syntax with YAML (.yml) – yet another human readable syntax.
