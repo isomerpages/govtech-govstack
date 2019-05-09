@@ -35,13 +35,11 @@ Cameron is a Senior Solutions Engineer with HashiCorp based out of Melbourne, Au
 
 ### **Melvin Wong, Lead Infrastructure Engineer for Government on Commercial Cloud, GovTech**
 #### Track 1: Deep Dive into Government on Commercial Cloud Design and Implementation 
-
 Before joining GovTech, he was the Technical Delivery Architect with StarHub and was responsible for leading systems and Cloud engagement with StarHub’s enterprise customers. Melvin has built several private Clouds in his previous employments.
 To add to his extensive technical knowledge, Melvin holds several professional certifications: MCSE, MCSA in Azure, ITIL, VCP, to name a few.
 
 ### **Jason Zheng, Solution Architect, GovTech**
 #### Track 2: API Market Place - MyInfo as a Case Study
-
 Jason is a Solution Architect from MyInfo team, under the National Digital Identity programme (NDI). He has over 10 years of experience in providing solutions and application development. A certified Scrum Master and DevOps practitioner, Jason enjoys tinkering with technology, and is currently exploring cloud technologies.
 
 ### **Samuel Loh, Software Engineer, Application Infrastructure, GovTech**
