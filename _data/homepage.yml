@@ -6,7 +6,7 @@ agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
 hero-banner: /images/hero-banner.png
-    
+  
 key-highlights:
   - title: RSVP NOW
     description: Register your seats now
@@ -23,7 +23,6 @@ key-highlights:
     description: Highlights of STACK 2018 
     url: /stack-2018
 
-    
 # The Programme Sections
 info-sections:
   - section-title: 
