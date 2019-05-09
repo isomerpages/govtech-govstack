@@ -30,7 +30,6 @@ Prior to joining GovTech, Cheow Hoe held senior appointments in international ba
     </div>
     <div class="col is-8">
         <p class="title is-4">Gregor Hohpe</p>
-        <strong>Position</strong>
         <br>
 
 Gregor specialises in helping organisations with their enterprise architecture strategy and cloud transformation journey. He connects corporate strategy with technical implementation by making complex topics engaging and approachable without compromising technical accuracy.
@@ -39,17 +38,15 @@ During his stint as technical director in Google Cloud’s office of the CTO, Gr
 
 Gregor is the co-author of the seminal book “Enterprise Integration Patterns”, which is widely cited as the reference vocabulary for asynchronous messaging solutions. His book “37 Things One Architect Knows About IT Transformation” tells stories from the trenches of IT transformation while his articles have been featured in “Best Software Writing” by Joel Spolsky and “97 Things Every Software Architect Should Know”. He is an active member of the IEEE Software advisory board.
 
-
 <div class="row">
     <div class="col is-4">
         <img src="/images/dummy.png" alt="Clement Wong">
     </div>
     <div class="col is-8">
         <p class="title is-4">Clement Wong</p>
-        <strong>Cloud Solution Strategist</strong>
+        <strong>Cloud Solution Strategist,  VMWare</strong>
         <br>
-        VMWare
-        <br>
+       
 Clement Wong is the Cloud Solution Strategist, Asia Pacific and Japan, of VMware. He is the Subject Matter Expert for VMware’s cloud management solutions, and delivers training and presentations to direct sales, customers and partners globally. In his role, he is responsible for helping organizations build, architect and design their own private cloud. He also serves as the strategic connection between VMware, its customers and partners to drive sales and partnerships across the region. 
 
 At VMware, Clement is part of the CTO Ambassador program, where he helps ensure close collaboration between VMware’s R&D team and customers to address current issues and future needs in an effective manner. Clement also serves as a VMware Hands-on Labs Captain, building and delivering content on VMware Hands-on Labs for customers, partners and users on VMware products and solutions during VMworld, vForums and other VMware hands-on labs workshops held globally.
