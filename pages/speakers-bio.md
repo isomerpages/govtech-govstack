@@ -15,8 +15,6 @@ In his role as Deputy Chief Executive, GovTech, he oversees multi-disciplinary t
 
 Prior to joining GovTech, Cheow Hoe held senior appointments in international banks and consulting companies in the areas of technology, operations, finance and business. Cheow Hoe graduated from the National University of Singapore, and obtained his masters from Wharton School.
 
-</div>
-
 ### **Gregor Hohpe**
 
 Gregor specialises in helping organisations with their enterprise architecture strategy and cloud transformation journey. He connects corporate strategy with technical implementation by making complex topics engaging and approachable without compromising technical accuracy.
@@ -32,6 +30,10 @@ Clement Wong is the Cloud Solution Strategist, Asia Pacific and Japan, of VMware
 At VMware, Clement is part of the CTO Ambassador program, where he helps ensure close collaboration between VMware’s R&D team and customers to address current issues and future needs in an effective manner. Clement also serves as a VMware Hands-on Labs Captain, building and delivering content on VMware Hands-on Labs for customers, partners and users on VMware products and solutions during VMworld, vForums and other VMware hands-on labs workshops held globally.
 
 Clement brings with him almost a decade of experience in the technology field since he joined VMware in 2011. Prior to joining VMware, he was the Co-Founder of Tinkerbox Studios where he worked with his team to help businesses realize value through the core service offerings in UX Design, Agile Web Development and Business Solutions.  
+
+### **Cameron Huysmans,  Senior Solutions Engineer, HashiCorp**
+
+Cameron is a Senior Solutions Engineer with HashiCorp based out of Melbourne, Australia. He has worked with some of Australia's leading organisations to help them successfully unlock the cloud operating model. Prior to HashiCorp he spent 6 years running his own enterprise consulting company. Outside of work, Cameron enjoys playing soccer, all things GOT and being a dad to two daughters. 
 
 ## **STACK-X: Cloud Breakout Session Facilitators**
 
