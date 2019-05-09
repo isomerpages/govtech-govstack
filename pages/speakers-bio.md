@@ -25,7 +25,7 @@ During his stint as technical director in Google Cloud’s office of the CTO, Gr
 
 Gregor is the co-author of the seminal book “Enterprise Integration Patterns”, which is widely cited as the reference vocabulary for asynchronous messaging solutions. His book “37 Things One Architect Knows About IT Transformation” tells stories from the trenches of IT transformation while his articles have been featured in “Best Software Writing” by Joel Spolsky and “97 Things Every Software Architect Should Know”. He is an active member of the IEEE Software advisory board.
 
-### **Clement Wong**
+### **Clement Wong, Cloud Solution Strategist, Asia Pacific and Japan, VMware**
  
 Clement Wong is the Cloud Solution Strategist, Asia Pacific and Japan, of VMware. He is the Subject Matter Expert for VMware’s cloud management solutions, and delivers training and presentations to direct sales, customers and partners globally. In his role, he is responsible for helping organizations build, architect and design their own private cloud. He also serves as the strategic connection between VMware, its customers and partners to drive sales and partnerships across the region. 
 
@@ -35,13 +35,13 @@ Clement brings with him almost a decade of experience in the technology field si
 
 ## **STACK-X: Cloud Breakout Session Facilitators**
 
-### **Jason Zheng, Solution Architect**
-API Market Place - MyInfo as a Case Study
+### **Jason Zheng, Solution Architect, Government Technology Agency**
+## API Market Place - MyInfo as a Case Study
 
 Jason is a Solution Architect from MyInfo team, under the National Digital Identity programme (NDI). He has over 10 years of experience in providing solutions and application development. A certified Scrum Master and DevOps practitioner, Jason enjoys tinkering with technology, and is currently exploring cloud technologies.
 
-### **Melvin Wong, Lead Infrastructure Engineer for Government on Commercial Cloud**
-Deep Dive into Government on Commercial Cloud Design and Implementation 
+### **Melvin Wong, Lead Infrastructure Engineer for Government on Commercial Cloud, Government Technology Agency**
+## Deep Dive into Government on Commercial Cloud Design and Implementation 
 
 Before joining GovTech, he was the Technical Delivery Architect with StarHub and was responsible for leading systems and Cloud engagement with StarHub’s enterprise customers. Melvin has built several private Clouds in his previous employments.
 To add to his extensive technical knowledge, Melvin holds several professional certifications: MCSE, MCSA in Azure, ITIL, VCP, to name a few.
