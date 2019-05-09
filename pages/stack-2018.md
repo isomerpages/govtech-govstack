@@ -1,5 +1,5 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: STACK 2018
 permalink: /stack-2018
 breadcrumb: STACK 2018
