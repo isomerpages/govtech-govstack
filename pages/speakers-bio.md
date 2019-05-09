@@ -12,6 +12,7 @@ title: Speakers and Workshop faciliators
         <img src="/images/dummy.png" alt="Chan Cheow Hoe">
     </div>
     <div class="col is-8">
+        
 ### **Chan Cheow Hoe, Government Chief Digital Technology Officer**
           <br>
 
