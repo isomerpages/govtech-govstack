@@ -221,26 +221,3 @@ Highlights of STACK 2018
 <sub>*Programme is subject to change.</sub><br>
 
 
-Registration Fees: $350  (Normal Fees) , $250 (Early Bird Promotion)
-
-<table>
-  <tr>
-    <th colspan="2"><span style="font-weight:bolder">Event Details</span></th>
-  </tr>
-  <tr>
-    <td>Date:</td>
-    <td>2-3 October 2018</td>
-  </tr>
-  <tr>
-    <td>Venue:</td>
-    <td>Suntec Convention Hall  <br>1 Raffles Boulevard, Suntec City, Level 3, Singapore 039593</td>
-  </tr>
-  <tr>
-    <td>For event or registration-related query</td>
-    <td>CMG_Events@tech.gov.sg</td>
-  </tr>
-  <tr>
-    <td>For workshop-related query</td>
-    <td>enquiries@govtechstack.sg</td>
-  </tr>
-</table>
