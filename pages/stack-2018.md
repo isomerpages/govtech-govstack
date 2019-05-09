@@ -15,7 +15,7 @@ Held at Suntec Singapore Convention and Exhibition Centre from 2-3 October 2018,
 
 Top technologists from the private and public sectors spoke at STACK 2018. They included: Gregor Hohpe (Google Cloud), Steven Murawski (Microsoft), Richard Socher (Salesforce), Danny Burkes (Pivotal), Olivier Klein (Amazon Web Services), Kief Morris (ThoughtWorks), Chang Sau Sheong (SP Group) among others. GovTech also held talks and technical workshops where participants gleaned an insight into the Government’s tech platforms and products, as well as the key technologies that the public sector is banking on.
 
-Highlights of STACK 2018
+**Highlights of STACK 2018**
 
 ---
 <div class="bp-youtube">
