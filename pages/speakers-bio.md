@@ -28,6 +28,7 @@ Prior to joining GovTech, Cheow Hoe held senior appointments in international ba
         <img src="/images/dummy.png" alt="Gregor Hohpe">
     </div>
     <div class="col is-8">
+        
 ### **Gregor Hohpe**
         <br>
 
@@ -42,6 +43,7 @@ Gregor is the co-author of the seminal book â€œEnterprise Integration Patternsâ€
         <img src="/images/dummy.png" alt="Clement Wong">
     </div>
     <div class="col is-8">
+        
 ### **Clement Wong**
         <br>
        
