@@ -26,35 +26,19 @@ Prior to joining GovTech, Cheow Hoe held senior appointments in international ba
 
 <div class="row">
     <div class="col is-4">
-        <img src="/images/dummy.png" alt="Chan Cheow Hoe">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Chan Cheow Hoe</p>
-        <strong>Government Chief Digital Technology Officer</strong>
-          <br>
-
-Mr Chan Cheow Hoe is the Government Chief Digital Technology Officer (GCDTO) of the Smart Nation and Digital Government Office. He is also concurrently the Deputy Chief Executive of the Government Technology Agency of Singapore (GovTech). As the GCDTO, Cheow Hoe oversees the development of the Government’s digital infrastructure and digital technology capability, as well as talent development in information and communication technology and smart systems (ICT&SS). He will also oversee the development of platforms to enable resource sharing and interoperability across Government, so as to drive the development and delivery of innovative government digital services for citizens and businesses. 
-
-In his role as Deputy Chief Executive, GovTech, he oversees multi-disciplinary teams that develop and manage key government’s digital products such as the National Digital Identity. Cheow Hoe has more than two decades of extensive experience both in the public and private sectors, with a strong track record in leading digital transformation changes in organisations and the government. 
-
-Prior to joining GovTech, Cheow Hoe held senior appointments in international banks and consulting companies in the areas of technology, operations, finance and business. Cheow Hoe graduated from the National University of Singapore, and obtained his masters from Wharton School.
-
-</div>
-
-
-<div class="row">
-    <div class="col is-4">
         <img src="/images/dummy.png" alt="Gregor Hohpe">
     </div>
     <div class="col is-8">
         <p class="title is-4">Gregor Hohpe</p>
         <strong>Position</strong>
         <br>
-        Company
-        <br>
-        Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her
-    </div>
-</div>
+
+Gregor specialises in helping organisations with their enterprise architecture strategy and cloud transformation journey. He connects corporate strategy with technical implementation by making complex topics engaging and approachable without compromising technical accuracy.
+
+During his stint as technical director in Google Cloud’s office of the CTO, Gregor maximised the benefits customers derive from a cloud-based IT model by combining organisational, software delivery, and IT infrastructure transformation. Prior to Google, Gregor held a position as Chief Architect at Allianz SE, one of the world’s largest insurance companies. Having established accelerated innovation and complexity and cost reduction as architecture goals, he oversaw a global data centre consolidation and deployed the first on-premise cloud and software delivery platform.
+
+Gregor is the co-author of the seminal book “Enterprise Integration Patterns”, which is widely cited as the reference vocabulary for asynchronous messaging solutions. His book “37 Things One Architect Knows About IT Transformation” tells stories from the trenches of IT transformation while his articles have been featured in “Best Software Writing” by Joel Spolsky and “97 Things Every Software Architect Should Know”. He is an active member of the IEEE Software advisory board.
+
 
 <div class="row">
     <div class="col is-4">
@@ -66,10 +50,13 @@ Prior to joining GovTech, Cheow Hoe held senior appointments in international ba
         <br>
         VMWare
         <br>
-        Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her
-    </div>
-</div>
+Clement Wong is the Cloud Solution Strategist, Asia Pacific and Japan, of VMware. He is the Subject Matter Expert for VMware’s cloud management solutions, and delivers training and presentations to direct sales, customers and partners globally. In his role, he is responsible for helping organizations build, architect and design their own private cloud. He also serves as the strategic connection between VMware, its customers and partners to drive sales and partnerships across the region. 
 
+At VMware, Clement is part of the CTO Ambassador program, where he helps ensure close collaboration between VMware’s R&D team and customers to address current issues and future needs in an effective manner. Clement also serves as a VMware Hands-on Labs Captain, building and delivering content on VMware Hands-on Labs for customers, partners and users on VMware products and solutions during VMworld, vForums and other VMware hands-on labs workshops held globally.
+
+Clement brings with him almost a decade of experience in the technology field since he joined VMware in 2011. Prior to joining VMware, he was the Co-Founder of Tinkerbox Studios where he worked with his team to help businesses realize value through the core service offerings in UX Design, Agile Web Development and Business Solutions.  
+
+</div>
 
 <div class="row">
     <div class="col is-4">
