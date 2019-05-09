@@ -7,7 +7,7 @@ breadcrumb: STACK 2018
 
 > Some Description about STACK 2018
 
-![STACK banner](/images/media/events/1.jpeg)
+![STACK banner 2018](/images/1.jpeg)
  
 STACK is the Government Technology Agency’s (GovTech) first-ever developer conference for developers, programmers and technologists from the public and private sectors.
 
