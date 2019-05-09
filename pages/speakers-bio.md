@@ -28,7 +28,7 @@ Prior to joining GovTech, Cheow Hoe held senior appointments in international ba
         <img src="/images/dummy.png" alt="Gregor Hohpe">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Gregor Hohpe</p>
+### **Gregor Hohpe**
         <br>
 
 Gregor specialises in helping organisations with their enterprise architecture strategy and cloud transformation journey. He connects corporate strategy with technical implementation by making complex topics engaging and approachable without compromising technical accuracy.
@@ -42,8 +42,7 @@ Gregor is the co-author of the seminal book “Enterprise Integration Patterns�
         <img src="/images/dummy.png" alt="Clement Wong">
     </div>
     <div class="col is-8">
-        <p class="title is-4">Clement Wong</p>
-        <strong>Cloud Solution Strategist,  VMWare</strong>
+### **Clement Wong**
         <br>
        
 Clement Wong is the Cloud Solution Strategist, Asia Pacific and Japan, of VMware. He is the Subject Matter Expert for VMware’s cloud management solutions, and delivers training and presentations to direct sales, customers and partners globally. In his role, he is responsible for helping organizations build, architect and design their own private cloud. He also serves as the strategic connection between VMware, its customers and partners to drive sales and partnerships across the region. 
