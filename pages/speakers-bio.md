@@ -25,7 +25,7 @@ Gregor is the co-author of the seminal book “Enterprise Integration Patterns�
 
 ### **Clement Wong, Cloud Solution Strategist, Asia Pacific and Japan, VMware**
  
-Clement Wong is the Cloud Solution Strategist, Asia Pacific and Japan, of VMware. He is the Subject Matter Expert for VMware’s cloud management solutions, and delivers training and presentations to direct sales, customers and partners globally. In his role, he is responsible for helping organizations build, architect and design their own private cloud. He also serves as the strategic connection between VMware, its customers and partners to drive sales and partnerships across the region. 
+Clement Wong is the Cloud Solution Strategist, Asia Pacific and Japan, of VMware. He is the Subject Matter Expert for VMware’s cloud management solutions, and delivers training and presentations to direct sales, customers and partners globally. In his role, he is responsible for helping organisations build, architect and design their own private cloud. He also serves as the strategic connection between VMware, its customers and partners to drive sales and partnerships across the region. 
 
 At VMware, Clement is part of the CTO Ambassador program, where he helps ensure close collaboration between VMware’s R&D team and customers to address current issues and future needs in an effective manner. Clement also serves as a VMware Hands-on Labs Captain, building and delivering content on VMware Hands-on Labs for customers, partners and users on VMware products and solutions during VMworld, vForums and other VMware hands-on labs workshops held globally.
 
@@ -37,17 +37,17 @@ Cameron is a Senior Solutions Engineer with HashiCorp based out of Melbourne, Au
 
 ## **STACK-X: Cloud Breakout Session Facilitators**
 
-### **Melvin Wong, Lead Infrastructure Engineer for Government on Commercial Cloud, Government Technology Agency**
+### **Melvin Wong, Lead Infrastructure Engineer for Government on Commercial Cloud, GovTech**
 #### Track 1: Deep Dive into Government on Commercial Cloud Design and Implementation 
 
 Before joining GovTech, he was the Technical Delivery Architect with StarHub and was responsible for leading systems and Cloud engagement with StarHub’s enterprise customers. Melvin has built several private Clouds in his previous employments.
 To add to his extensive technical knowledge, Melvin holds several professional certifications: MCSE, MCSA in Azure, ITIL, VCP, to name a few.
 
-### **Jason Zheng, Solution Architect, Government Technology Agency**
+### **Jason Zheng, Solution Architect, GovTech**
 #### Track 2: API Market Place - MyInfo as a Case Study
 
 Jason is a Solution Architect from MyInfo team, under the National Digital Identity programme (NDI). He has over 10 years of experience in providing solutions and application development. A certified Scrum Master and DevOps practitioner, Jason enjoys tinkering with technology, and is currently exploring cloud technologies.
 
-### **Samuel Loh, Software Engineer, Application Infrastructure, Government Technology Agency**
+### **Samuel Loh, Software Engineer, Application Infrastructure, GovTech**
 
 Samuel has been working with GovTech for four years, building applications and automating infrastructure as much as possible. A polyglot programmer, he dabbles in everything , including Linux system administration, containerisation and public key infrastructure systems.
