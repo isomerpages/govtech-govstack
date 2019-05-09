@@ -53,19 +53,6 @@ At VMware, Clement is part of the CTO Ambassador program, where he helps ensure 
 
 Clement brings with him almost a decade of experience in the technology field since he joined VMware in 2011. Prior to joining VMware, he was the Co-Founder of Tinkerbox Studios where he worked with his team to help businesses realize value through the core service offerings in UX Design, Agile Web Development and Business Solutions.  
 
-</div>
+## **STACK-X: Cloud Breakout Session Facilitators**
 
-<div class="row">
-    <div class="col is-4">
-        <img src="/images/dummy.png" alt="Cameron Huysmans">
-    </div>
-    <div class="col is-8">
-        <p class="title is-4">Cameron Huysmans</p>
-        <strong>Senior Solutions Engineer</strong>
-        <br>
-        HashiCorp
-        <br>
-        Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her Some description about Him/Her
-    </div>
-</div>
 
