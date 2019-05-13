@@ -4,6 +4,9 @@ favicon: /images/favicon-isomer.ico
 # Agency logo
 agency-logo: /images/isomer-logo.svg
 
+# Google analytics
+google-analytics: UA-82296306-1
+
 # Hero Banner
 hero-banner: /images/hero-banner.png
   
