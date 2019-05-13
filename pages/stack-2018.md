@@ -83,12 +83,12 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   </tr>
   <tr>
     <td><span style="font-weight:bolder">1:30pm</span></td>
-    <td>Becoming a Cloud-Native Smart NationHosting Applications in the GovernmentAutomating the Alpha and the Omega of Your Infrastructure</td>
+    <td>Becoming a Cloud-Native Smart NationHosting Applications in the Government, Automating the Alpha and the Omega of Your Infrastructure</td>
     <td>Re-imagining Customer Journeys through National Digital Identity</td>
     <td>So you think you know UX?</td>
-    <td rowspan="2">Token Based Stateless Authentication</td>
-    <td rowspan="2">Effective Containerisation from Development to Production</td>
-    <td rowspan="2">Advanced Web Hacking for Developers</td>
+    <td rowspan="2">Token Based Stateless Authentication<br>Speaker: Stacy Goh & Yu Hong</td>
+    <td rowspan="2">Effective Containerisation from Development to Production<br>Speaker: Joseph Goh</td>
+    <td rowspan="2">Advanced Web Hacking for Developers<br>Speaker: Eugene Ng</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">2:30pm</span></td>
@@ -101,9 +101,9 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
     <td>Stalking Your Applications and Knowing What They’re Up To<br><br>Cyber Analytics for Proactive Detection<br><br>WOGAA – Understanding our Citizens Digital Experiences<br><br>FormSG – Taking an Agile Approach to going Digital<br><br>GovText – Text analytics for Public Service<br><br>Government Private Cloud (GPC) Success Stories</td>
     <td>Qualifying as a Government Vendor</td>
     <td>MyInfo – Transforming Digital Journey</td>
-    <td rowspan="2">Nectar PaaS</td>
-    <td rowspan="2">Mob Programming</td>
-    <td rowspan="2">SHIP: Secure Hybrid Integrated Pipeline</td>
+    <td rowspan="2">Nectar PaaS<br>Speaker: Ronald Kan</td>
+    <td rowspan="2">Mob Programming<br> Speaker: Ivan Zimine</td>
+    <td rowspan="2">SHIP: Secure Hybrid Integrated Pipeline<br> Speaker: Somnath Kapoor</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">4:30pm</span></td>
@@ -187,9 +187,9 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
     <td>Red Teaming the Culture<br><br>Nothing to talk about on Retrospective, huh?<br><br>3D Information Model and Related applications<br><br>Distributed Ledger Technology for Open Certification<br><br>Framing Design Solutions: HDB Resale Portal as a Case Study<br><br>The New Kind of Job Market</td>
     <td>Open Source, open mindset … open what?</td>
     <td>Tech Stacking up the Smart Nation Sensor Platform</td>
-    <td rowspan="2">HATS off to BDD</td>
-    <td rowspan="2">APEX 101</td>
-    <td rowspan="2">Customer Journey made simple with MyInfo APIs</td>
+    <td rowspan="2">HATS off to BDD<br>Speakers: Koh Keng Hun, Moneesh Prathap, Lim Xyng Fei, Lim Zui Young</td>
+    <td rowspan="2">APEX 101<br>Speakers: Junyu Wei, Kelvin Wijaya, Ming Tat Lim, Lijia Yang, Shi Ling Lam</td>
+    <td rowspan="2">Customer Journey made simple with MyInfo APIs<br>Speakers: Chee Siang, Jason Zheng</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">3:00pm</span></td>
@@ -202,9 +202,9 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
     <td>Security Testing in Agile Projects<br><br>Exploring IOT Message Queues &amp; Protocols<br><br>Open-Sourcing at the Data Science Division<br><br>Behavioural Science and User Experience<br><br>Coming onboard the Content Website Platform<br><br>Legacy Code Economics</td>
     <td>DevOps : Who Does What?</td>
     <td>DevOps Culture and Practices in High Regulated Government Environment</td>
-    <td rowspan="2"> Data Communication for a Controlled Sensors &amp; IOT System</td>
-    <td rowspan="2"> Get Hands On with NDI Sandbox!</td>
-    <td rowspan="2">Remove Developer Secrets or Remove Shameful Develo</td>
+    <td rowspan="2"> Data Communication for a Controlled Sensors &amp; IOT System<br>Speaker: Celine Chia</td>
+    <td rowspan="2"> Get Hands On with NDI Sandbox!<br> Speakers: Yee Wee, Praveen Jose & William Lee </td>
+    <td rowspan="2">Remove Developer Secrets or Remove Shameful Developers<br> Speaker: Fabian Lim</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">5:00pm</span></td>
