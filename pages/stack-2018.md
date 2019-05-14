@@ -92,7 +92,7 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   </tr>
   <tr>
     <td><span style="font-weight:bolder">2:30pm</span></td>
-    <td>Data.gov.sg – Singapore’s Open Data Platform (Speaker: Loh Li Wei)</td>
+    <td>Data.gov.sg – Singapore’s Open Data Platform (Speaker: Loh Li Wei)<br><br>Open Hybrid Cloud Strategy (Speaker: Kingsley Wood, RedHat)<br><br>AI Platform in the Cloud (Speaker: Dr Cao Yi, Alibaba)</td>
     <td>From the Iron Age to the Cloud Age<br>Speaker: Kief Morris (ThoughtWorks)</td>
     <td>Government Private Cloud 101<br>Speaker: Rodney Nicholas</td>
   </tr>
@@ -107,7 +107,7 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   </tr>
   <tr>
     <td><span style="font-weight:bolder">4:30pm</span></td>
-    <td>Machine Learning in Analytics Platform<br>Speaker: Weisheng Chen</td>
+    <td>Machine Learning in Analytics Platform (Speaker: Weisheng Chen)<br><br>Building the Unbreakable Continous Delivery Pipeline (Speaker: Andreas Grabner, DynaTrace)<br><br> Venturing Beyond the White Elephant's Foot (Speaker: Samantha Yuen)</td>
     <td>Government Commercial Cloud 101<br>Speaker: Melvin Wong</td>
     <td>FaaS: Function-as-a-Service<br>Speakers: Yos Riady(TenX) and Robin Cher</td>
   </tr>
@@ -193,7 +193,7 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   </tr>
   <tr>
     <td><span style="font-weight:bolder">3:00pm</span></td>
-    <td>Incident Management, Monitoring and SRE (Speaker: Hunter Nield)<br><br>MOL’s Journey In Creating A Citizen Centric Product (Speaker: Eunice Chan)<br><br>Digital Service Standards (Speaker: Alvin Lim)</td>
+    <td>Incident Management, Monitoring and SRE (Speaker: Hunter Nield)<br><br>MOL’s Journey In Creating A Citizen Centric Product (Speaker: Eunice Chan)<br><br>Digital Service Standards (Speaker: Alvin Lim)<br><br> Zero Trust Deployment with Microgateways (Speaker: Ajay Biyani, Forgerock)<br><br>QA is Not Second Class Citizen in the Agile World (Speaker: Jeff Saleh, Oracle)</td>
     <td>Dealing with Software Maintainability Through Refactoring<br>Speaker: Stanly Lau</td>
     <td>Internet footprinting – Uncovering treasures on the Internet with OSINT techniques<br> Speakers: Terence Teo & Teo Zhan Teng</td>
   </tr>
