@@ -83,7 +83,7 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   </tr>
   <tr>
     <td><span style="font-weight:bolder">1:30pm</span></td>
-    <td>Becoming a Cloud-Native Smart NationHosting Applications in the Government, Automating the Alpha and the Omega of Your Infrastructure</td>
+    <td>Becoming a Cloud-Native Smart Nation (Speaker: Hunter Nield)<br>Hosting Applications in the Government (Speaker: Ronald Kan)<br>Automating the Alpha and the Omega of Your Infrastructure (Speaker: Chua Yong Wen)</td>
     <td>Co-creating a Trust Ecosystem through National Digital Identity<br>Speaker: Quek Sin, Kok Khuan</td>
     <td>So you think you know UX?<br>Speaker: Edison Chee</td>
     <td rowspan="2">Token Based Stateless Authentication<br>Speaker: Stacy Goh & Yu Hong</td>
@@ -92,7 +92,7 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   </tr>
   <tr>
     <td><span style="font-weight:bolder">2:30pm</span></td>
-    <td>Data.gov.sg – Singapore’s Open Data Platform</td>
+    <td>Data.gov.sg – Singapore’s Open Data Platform (Speaker: Loh Li Wei)</td>
     <td>From the Iron Age to the Cloud Age<br>Speaker: Kief Morris (ThoughtWorks)</td>
     <td>Government Private Cloud 101<br>Speaker: Rodney Nicholas</td>
   </tr>
@@ -200,8 +200,8 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   <tr>
     <td><span style="font-weight:bolder">4:00pm</span></td>
     <td>Security Testing in Agile Projects<br><br>Exploring IOT Message Queues &amp; Protocols<br><br>Open-Sourcing at the Data Science Division<br><br>Behavioural Science and User Experience<br><br>Coming onboard the Content Website Platform<br><br>Legacy Code Economics</td>
-    <td>DevOps : Who Does What?</td>
-    <td>DevOps Culture and Practices in High Regulated Government Environment</td>
+    <td>DevOps : Who Does What?<br>Speaker: Cornelia Davis(Pivotal)</td>
+    <td>DevOps Culture and Practices in High Regulated Government Environment<br>Speaker: Hudson Lee</td>
     <td rowspan="2"> Data Communication for a Controlled Sensors &amp; IOT System<br>Speaker: Celine Chia</td>
     <td rowspan="2"> Get Hands On with NDI Sandbox!<br> Speakers: Yee Wee, Praveen Jose & William Lee </td>
     <td rowspan="2">Remove Developer Secrets or Remove Shameful Developers<br> Speaker: Fabian Lim</td>
@@ -209,8 +209,8 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   <tr>
     <td><span style="font-weight:bolder">5:00pm</span></td>
     <td> </td>
-    <td> Parking.sg – Prototype to Production</td>
-    <td> Think (Break) Out of the Box</td>
+    <td> Parking.sg – Prototype to Production<br>Speaker: Huang Kaiwen</td>
+    <td> Think (Break) Out of the Box<br>Speaker: Chong Rong Hwa</td>
   </tr>
   <tr>
     <td colspan="7"><span style="font-weight:bolder">End of Conference</span></td>
