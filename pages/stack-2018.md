@@ -84,7 +84,7 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   <tr>
     <td><span style="font-weight:bolder">1:30pm</span></td>
     <td>Becoming a Cloud-Native Smart Nation (Speaker: Hunter Nield)<br>Hosting Applications in the Government (Speaker: Ronald Kan)<br>Automating the Alpha and the Omega of Your Infrastructure (Speaker: Chua Yong Wen)</td>
-    <td>Co-creating a Trust Ecosystem through National Digital Identity<br>Speaker: Quek Sin, Kok Khuan</td>
+    <td>Co-creating a Trust Ecosystem through National Digital Identity<br>Speaker: Kwok Quek Sin, Fong Kok Khuan</td>
     <td>So you think you know UX?<br>Speaker: Edison Chee</td>
     <td rowspan="2">Token Based Stateless Authentication<br>Speaker: Stacy Goh & Yu Hong</td>
     <td rowspan="2">Effective Containerisation from Development to Production<br>Speaker: Joseph Goh</td>
@@ -98,7 +98,7 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   </tr>
   <tr>
     <td><span style="font-weight:bolder">3:30pm</span></td>
-    <td>Stalking Your Applications and Knowing What They’re Up To<br><br>Cyber Analytics for Proactive Detection<br><br>WOGAA – Understanding our Citizens Digital Experiences<br><br>FormSG – Taking an Agile Approach to going Digital<br><br>GovText – Text analytics for Public Service<br><br>Government Private Cloud (GPC) Success Stories</td>
+    <td>Stalking Your Applications and Knowing What They’re Up To (Speaker: Ryan Goh)<br><br>Cyber Analytics for Proactive Detection (Speaker: Joel Lee)<br><br>WOGAA – Understanding our Citizens Digital Experiences (Speaker: Nicholas Yeo)<br><br>FormSG – Taking an Agile Approach to going Digital (Speaker: Arshad Samad)<br><br>GovText – Text Analytics for Public Service (Speaker: William Teo)<br><br>Government Private Cloud (GPC) Success Stories (Speaker: David Chang)</td>
     <td>Qualifying as a Government Vendor<br>Speaker: Aaron Ma</td>
     <td>MyInfo – For Seamless Customer Journeys<br>Speaker: Kendrick Lee</td>
     <td rowspan="2">Nectar PaaS<br>Speaker: Ronald Kan</td>
@@ -107,7 +107,7 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   </tr>
   <tr>
     <td><span style="font-weight:bolder">4:30pm</span></td>
-    <td>Machine Learning in Analytics Platform</td>
+    <td>Machine Learning in Analytics Platform<br>Speaker: Weisheng Chen</td>
     <td>Government Commercial Cloud 101<br>Speaker: Melvin Wong</td>
     <td>FaaS: Function-as-a-Service<br>Speakers: Yos Riady(TenX) and Robin Cher</td>
   </tr>
@@ -184,7 +184,7 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   </tr>
   <tr>
     <td><span style="font-weight:bolder">2:00pm</span></td>
-    <td>Red Teaming the Culture<br><br>Nothing to talk about on Retrospective, huh?<br><br>3D Information Model and Related applications<br><br>Distributed Ledger Technology for Open Certification<br><br>Framing Design Solutions: HDB Resale Portal as a Case Study<br><br>The New Kind of Job Market</td>
+    <td>Red Teaming the Culture (Speaker: Fabian Lim)<br><br>Nothing to talk about on Retrospective, huh? (Speaker: Lingesvaran & Simon Teo)<br><br>3D Information Model and Related applications<br><br>Distributed Ledger Technology for Open Certification (Speaker: Wayne Tan)<br><br>Framing Design Solutions: HDB Resale Portal as a Case Study (Speaker: Alishia Chiang)<br><br>The New Kind of Job Market (Speaker: Evangeline Chua & Patrick Tay (NTUC)</td>
     <td>Open Source, open mindset … open what?<br>Speaker: Parimal Aswani</td>
     <td>Tech Stacking up the Smart Nation Sensor Platform<br>Speaker: Quek Yang Boon</td>
     <td rowspan="2">HATS off to BDD<br>Speakers: Koh Keng Hun, Moneesh Prathap, Lim Xyng Fei, Lim Zui Young</td>
@@ -193,13 +193,13 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   </tr>
   <tr>
     <td><span style="font-weight:bolder">3:00pm</span></td>
-    <td>Incident Management, Monitoring and SRE<br><br>MOL’s Journey In Creating A Citizen Centric Product<br><br>Digital Service Standards</td>
+    <td>Incident Management, Monitoring and SRE (Speaker: Hunter Nield)<br><br>MOL’s Journey In Creating A Citizen Centric Product (Speaker: Eunice Chan)<br><br>Digital Service Standards (Speaker: Alvin Lim)</td>
     <td>Dealing with Software Maintainability Through Refactoring<br>Speaker: Stanly Lau</td>
     <td>Internet footprinting – Uncovering treasures on the Internet with OSINT techniques<br> Speakers: Terence Teo & Teo Zhan Teng</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">4:00pm</span></td>
-    <td>Security Testing in Agile Projects<br><br>Exploring IOT Message Queues &amp; Protocols<br><br>Open-Sourcing at the Data Science Division<br><br>Behavioural Science and User Experience<br><br>Coming onboard the Content Website Platform<br><br>Legacy Code Economics</td>
+    <td>Security Testing in Agile Projects (Speaker: Elmalique Ghazali)<br><br>Exploring IOT Message Queues & Protocols (Speaker: Abhilash Anselm)<br><br>Open-Sourcing at the Data Science Division (Speaker: Alwyn Tan)<br><br>Behavioural Science and User Experience (Speaker: Lenoard Chen)<br><br>Coming onboard the Content Website Platform (Speaker: Poh Kheng Thong) <br><br>Legacy Code Economics (Speaker: Terry Yin, Odd-e)</td>
     <td>DevOps : Who Does What?<br>Speaker: Cornelia Davis(Pivotal)</td>
     <td>DevOps Culture and Practices in High Regulated Government Environment<br>Speaker: Hudson Lee</td>
     <td rowspan="2"> Data Communication for a Controlled Sensors &amp; IOT System<br>Speaker: Celine Chia</td>
