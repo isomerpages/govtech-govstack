@@ -109,7 +109,7 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
     <td><span style="font-weight:bolder">4:30pm</span></td>
     <td>Machine Learning in Analytics Platform</td>
     <td>Government Commercial Cloud 101<br>Speaker: Melvin Wong</td>
-    <td>FaaS: Function-as-a-Service</td>
+    <td>FaaS: Function-as-a-Service<br>Speakers: Yos Riady(TenX) and Robin Cher</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">5:30 – 8:30pm</span></td>
@@ -186,7 +186,7 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
     <td><span style="font-weight:bolder">2:00pm</span></td>
     <td>Red Teaming the Culture<br><br>Nothing to talk about on Retrospective, huh?<br><br>3D Information Model and Related applications<br><br>Distributed Ledger Technology for Open Certification<br><br>Framing Design Solutions: HDB Resale Portal as a Case Study<br><br>The New Kind of Job Market</td>
     <td>Open Source, open mindset … open what?</td>
-    <td>Tech Stacking up the Smart Nation Sensor Platform</td>
+    <td>Tech Stacking up the Smart Nation Sensor Platform<br>Speaker: Quek Yang Boon</td>
     <td rowspan="2">HATS off to BDD<br>Speakers: Koh Keng Hun, Moneesh Prathap, Lim Xyng Fei, Lim Zui Young</td>
     <td rowspan="2">APEX 101<br>Speakers: Junyu Wei, Kelvin Wijaya, Ming Tat Lim, Lijia Yang, Shi Ling Lam</td>
     <td rowspan="2">Customer Journey made simple with MyInfo APIs<br>Speakers: Chee Siang, Jason Zheng</td>
