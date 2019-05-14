@@ -84,8 +84,8 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   <tr>
     <td><span style="font-weight:bolder">1:30pm</span></td>
     <td>Becoming a Cloud-Native Smart NationHosting Applications in the Government, Automating the Alpha and the Omega of Your Infrastructure</td>
-    <td>Re-imagining Customer Journeys through National Digital Identity</td>
-    <td>So you think you know UX?</td>
+    <td>Co-creating a Trust Ecosystem through National Digital Identity<br>Speaker: Quek Sin, Kok Khuan</td>
+    <td>So you think you know UX?<br>Speaker: Edison Chee</td>
     <td rowspan="2">Token Based Stateless Authentication<br>Speaker: Stacy Goh & Yu Hong</td>
     <td rowspan="2">Effective Containerisation from Development to Production<br>Speaker: Joseph Goh</td>
     <td rowspan="2">Advanced Web Hacking for Developers<br>Speaker: Eugene Ng</td>
@@ -93,14 +93,14 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   <tr>
     <td><span style="font-weight:bolder">2:30pm</span></td>
     <td>Data.gov.sg – Singapore’s Open Data Platform</td>
-    <td>From the Iron Age to the Cloud Age</td>
-    <td>Government Private Cloud 101</td>
+    <td>From the Iron Age to the Cloud Age<br>Speaker: Kief Morris (ThoughtWorks)</td>
+    <td>Government Private Cloud 101<br>Speaker: Rodney Nicholas</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">3:30pm</span></td>
     <td>Stalking Your Applications and Knowing What They’re Up To<br><br>Cyber Analytics for Proactive Detection<br><br>WOGAA – Understanding our Citizens Digital Experiences<br><br>FormSG – Taking an Agile Approach to going Digital<br><br>GovText – Text analytics for Public Service<br><br>Government Private Cloud (GPC) Success Stories</td>
-    <td>Qualifying as a Government Vendor</td>
-    <td>MyInfo – Transforming Digital Journey</td>
+    <td>Qualifying as a Government Vendor<br>Speaker: Aaron Ma</td>
+    <td>MyInfo – For Seamless Customer Journeys<br>Speaker: Kendrick Lee</td>
     <td rowspan="2">Nectar PaaS<br>Speaker: Ronald Kan</td>
     <td rowspan="2">Mob Programming<br> Speaker: Ivan Zimine</td>
     <td rowspan="2">SHIP: Secure Hybrid Integrated Pipeline<br> Speaker: Somnath Kapoor</td>
@@ -108,7 +108,7 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   <tr>
     <td><span style="font-weight:bolder">4:30pm</span></td>
     <td>Machine Learning in Analytics Platform</td>
-    <td>Government Commercial Cloud 101</td>
+    <td>Government Commercial Cloud 101<br>Speaker: Melvin Wong</td>
     <td>FaaS: Function-as-a-Service</td>
   </tr>
   <tr>
