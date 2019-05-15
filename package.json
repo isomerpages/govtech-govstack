@@ -1,0 +1,23 @@
+{
+  "name": "govtech-govstack",
+  "version": "1.0.0",
+  "description": "## 28 MAY 2019 at Suntec Singapore Convention and Exhibition Centre, Nicoll Room 1, Level 3",
+  "main": "travis-script.js",
+  "dependencies": {
+    "@isomerpages/isomerpages-travisci-scripts": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isomerpages/govtech-govstack.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isomerpages/govtech-govstack/issues"
+  },
+  "homepage": "https://github.com/isomerpages/govtech-govstack#readme"
+}
