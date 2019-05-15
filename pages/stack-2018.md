@@ -83,33 +83,33 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   </tr>
   <tr>
     <td><span style="font-weight:bolder">1:30pm</span></td>
-    <td>Becoming a Cloud-Native Smart NationHosting Applications in the Government, Automating the Alpha and the Omega of Your Infrastructure</td>
-    <td>Re-imagining Customer Journeys through National Digital Identity</td>
-    <td>So you think you know UX?</td>
+    <td>Becoming a Cloud-Native Smart Nation (Speaker: Hunter Nield)<br>Hosting Applications in the Government (Speaker: Ronald Kan)<br>Automating the Alpha and the Omega of Your Infrastructure (Speaker: Chua Yong Wen)</td>
+    <td>Co-creating a Trust Ecosystem through National Digital Identity<br>Speaker: Kwok Quek Sin, Fong Kok Khuan</td>
+    <td>So you think you know UX?<br>Speaker: Edison Chee</td>
     <td rowspan="2">Token Based Stateless Authentication<br>Speaker: Stacy Goh & Yu Hong</td>
     <td rowspan="2">Effective Containerisation from Development to Production<br>Speaker: Joseph Goh</td>
     <td rowspan="2">Advanced Web Hacking for Developers<br>Speaker: Eugene Ng</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">2:30pm</span></td>
-    <td>Data.gov.sg – Singapore’s Open Data Platform</td>
-    <td>From the Iron Age to the Cloud Age</td>
-    <td>Government Private Cloud 101</td>
+    <td>Data.gov.sg – Singapore’s Open Data Platform (Speaker: Loh Li Wei)<br><br>Open Hybrid Cloud Strategy (Speaker: Kingsley Wood, RedHat)<br><br>AI Platform in the Cloud (Speaker: Dr Cao Yi, Alibaba)</td>
+    <td>From the Iron Age to the Cloud Age<br>Speaker: Kief Morris (ThoughtWorks)</td>
+    <td>Government Private Cloud 101<br>Speaker: Rodney Nicholas</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">3:30pm</span></td>
-    <td>Stalking Your Applications and Knowing What They’re Up To<br><br>Cyber Analytics for Proactive Detection<br><br>WOGAA – Understanding our Citizens Digital Experiences<br><br>FormSG – Taking an Agile Approach to going Digital<br><br>GovText – Text analytics for Public Service<br><br>Government Private Cloud (GPC) Success Stories</td>
-    <td>Qualifying as a Government Vendor</td>
-    <td>MyInfo – Transforming Digital Journey</td>
+    <td>Stalking Your Applications and Knowing What They’re Up To (Speaker: Ryan Goh)<br><br>Cyber Analytics for Proactive Detection (Speaker: Joel Lee)<br><br>WOGAA – Understanding our Citizens Digital Experiences (Speaker: Nicholas Yeo)<br><br>FormSG – Taking an Agile Approach to going Digital (Speaker: Arshad Samad)<br><br>GovText – Text Analytics for Public Service (Speaker: William Teo)<br><br>Government Private Cloud (GPC) Success Stories (Speaker: David Chang)</td>
+    <td>Qualifying as a Government Vendor<br>Speaker: Aaron Ma</td>
+    <td>MyInfo – For Seamless Customer Journeys<br>Speaker: Kendrick Lee</td>
     <td rowspan="2">Nectar PaaS<br>Speaker: Ronald Kan</td>
     <td rowspan="2">Mob Programming<br> Speaker: Ivan Zimine</td>
     <td rowspan="2">SHIP: Secure Hybrid Integrated Pipeline<br> Speaker: Somnath Kapoor</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">4:30pm</span></td>
-    <td>Machine Learning in Analytics Platform</td>
-    <td>Government Commercial Cloud 101</td>
-    <td>FaaS: Function-as-a-Service</td>
+    <td>Machine Learning in Analytics Platform (Speaker: Weisheng Chen)<br><br>Building the Unbreakable Continous Delivery Pipeline (Speaker: Andreas Grabner, DynaTrace)<br><br> Venturing Beyond the White Elephant's Foot (Speaker: Samantha Yuen)</td>
+    <td>Government Commercial Cloud 101<br>Speaker: Melvin Wong</td>
+    <td>FaaS: Function-as-a-Service<br>Speakers: Yos Riady(TenX) and Robin Cher</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">5:30 – 8:30pm</span></td>
@@ -184,24 +184,24 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   </tr>
   <tr>
     <td><span style="font-weight:bolder">2:00pm</span></td>
-    <td>Red Teaming the Culture<br><br>Nothing to talk about on Retrospective, huh?<br><br>3D Information Model and Related applications<br><br>Distributed Ledger Technology for Open Certification<br><br>Framing Design Solutions: HDB Resale Portal as a Case Study<br><br>The New Kind of Job Market</td>
-    <td>Open Source, open mindset … open what?</td>
-    <td>Tech Stacking up the Smart Nation Sensor Platform</td>
+    <td>Red Teaming the Culture (Speaker: Fabian Lim)<br><br>Nothing to talk about on Retrospective, huh? (Speaker: Lingesvaran & Simon Teo)<br><br>3D Information Model and Related applications<br><br>Distributed Ledger Technology for Open Certification (Speaker: Wayne Tan)<br><br>Framing Design Solutions: HDB Resale Portal as a Case Study (Speaker: Alishia Chiang)<br><br>The New Kind of Job Market (Speaker: Evangeline Chua & Patrick Tay (NTUC)</td>
+    <td>Open Source, open mindset … open what?<br>Speaker: Parimal Aswani</td>
+    <td>Tech Stacking up the Smart Nation Sensor Platform<br>Speaker: Quek Yang Boon</td>
     <td rowspan="2">HATS off to BDD<br>Speakers: Koh Keng Hun, Moneesh Prathap, Lim Xyng Fei, Lim Zui Young</td>
     <td rowspan="2">APEX 101<br>Speakers: Junyu Wei, Kelvin Wijaya, Ming Tat Lim, Lijia Yang, Shi Ling Lam</td>
     <td rowspan="2">Customer Journey made simple with MyInfo APIs<br>Speakers: Chee Siang, Jason Zheng</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">3:00pm</span></td>
-    <td>Incident Management, Monitoring and SRE<br><br>MOL’s Journey In Creating A Citizen Centric Product<br><br>Digital Service Standards</td>
-    <td>Dealing with Software Maintainability Through Refactoring</td>
-    <td>Internet footprinting – Uncovering treasures on the Internet with OSINT techniques</td>
+    <td>Incident Management, Monitoring and SRE (Speaker: Hunter Nield)<br><br>MOL’s Journey In Creating A Citizen Centric Product (Speaker: Eunice Chan)<br><br>Digital Service Standards (Speaker: Alvin Lim)<br><br> Zero Trust Deployment with Microgateways (Speaker: Ajay Biyani, Forgerock)<br><br>QA is Not Second Class Citizen in the Agile World (Speaker: Jeff Saleh, Oracle)</td>
+    <td>Dealing with Software Maintainability Through Refactoring<br>Speaker: Stanly Lau</td>
+    <td>Internet footprinting – Uncovering treasures on the Internet with OSINT techniques<br> Speakers: Terence Teo & Teo Zhan Teng</td>
   </tr>
   <tr>
     <td><span style="font-weight:bolder">4:00pm</span></td>
-    <td>Security Testing in Agile Projects<br><br>Exploring IOT Message Queues &amp; Protocols<br><br>Open-Sourcing at the Data Science Division<br><br>Behavioural Science and User Experience<br><br>Coming onboard the Content Website Platform<br><br>Legacy Code Economics</td>
-    <td>DevOps : Who Does What?</td>
-    <td>DevOps Culture and Practices in High Regulated Government Environment</td>
+    <td>Security Testing in Agile Projects (Speaker: Elmalique Ghazali)<br><br>Exploring IOT Message Queues & Protocols (Speaker: Abhilash Anselm)<br><br>Open-Sourcing at the Data Science Division (Speaker: Alwyn Tan)<br><br>Behavioural Science and User Experience (Speaker: Lenoard Chen)<br><br>Coming onboard the Content Website Platform (Speaker: Poh Kheng Thong) <br><br>Legacy Code Economics (Speaker: Terry Yin, Odd-e)</td>
+    <td>DevOps : Who Does What?<br>Speaker: Cornelia Davis(Pivotal)</td>
+    <td>DevOps Culture and Practices in High Regulated Government Environment<br>Speaker: Hudson Lee</td>
     <td rowspan="2"> Data Communication for a Controlled Sensors &amp; IOT System<br>Speaker: Celine Chia</td>
     <td rowspan="2"> Get Hands On with NDI Sandbox!<br> Speakers: Yee Wee, Praveen Jose & William Lee </td>
     <td rowspan="2">Remove Developer Secrets or Remove Shameful Developers<br> Speaker: Fabian Lim</td>
@@ -209,8 +209,8 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
   <tr>
     <td><span style="font-weight:bolder">5:00pm</span></td>
     <td> </td>
-    <td> Parking.sg – Prototype to Production</td>
-    <td> Think (Break) Out of the Box</td>
+    <td> Parking.sg – Prototype to Production<br>Speaker: Huang Kaiwen</td>
+    <td> Think (Break) Out of the Box<br>Speaker: Chong Rong Hwa</td>
   </tr>
   <tr>
     <td colspan="7"><span style="font-weight:bolder">End of Conference</span></td>
