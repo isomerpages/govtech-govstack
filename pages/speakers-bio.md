@@ -2,7 +2,7 @@
 layout: simple-page
 permalink: /speakers-bio/
 breadcrumb: Speakers' Bio
-title: Speakers and Workshop faciliators 
+title: Speakers and Workshop facilitators 
 ---
 
 ## **STACK-X: Cloud 2019 Speakers**
