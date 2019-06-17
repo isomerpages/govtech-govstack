@@ -7,7 +7,7 @@ title: Speakers and Workshop facilitators
 
 ## **STACK-X: Service Redesign 2019 Speakers**
 
-<insert visual of speakers with names/designations here>
+*<insert visual of speakers with names/designations here>*
 
 ### **Chan Cheow Hoe, Government Chief Digital Technology Officer**
 Mr Chan Cheow Hoe is the Government Chief Digital Technology Officer (GCDTO) of the Smart Nation and Digital Government Office. He is also concurrently the Deputy Chief Executive of the Government Technology Agency of Singapore (GovTech). As the GCDTO, Cheow Hoe oversees the development of the Government’s digital infrastructure and digital technology capability, as well as talent development in information and communication technology and smart systems. He will also oversee the development of platforms to enable resource sharing and interoperability across Government, so as to drive the development and delivery of innovative government digital services for citizens and businesses. 
