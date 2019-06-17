@@ -1,11 +1,61 @@
 ---
 layout: simple-page
-title: STACK 2018
+title: STACK2020 Call for Proposal
 permalink: /stack-2018
-breadcrumb: STACK 2018
+breadcrumb: STACK 2020 Call for Proposal
 ---
 
-![STACK banner 2018](/images/1.jpeg)
+![STACK2020 Call for Proposal banner](/images/Stack2020-CFP.jpg)
+
+STACK 2020, GovTech Developer Conference
+30 March to 1 April 2020
+Call for Proposal
+
+**About STACK**<br>
+STACK is Government Technology Agency’s (GovTech) flagship conference for developers, architects, designers and technologists. Attended by over 1,500 participants in 2018, STACK is the largest developer-centric event in Singapore dedicated to connecting government, industry and the tech community for cross-sector collaboration.
+
+The conference is a platform for innovators and tech geeks to learn about, share knowledge and try out some of the latest digital products and innovations that the Singapore Government is working on.
+
+Top technologists from the private and public sectors spoke at the inaugural STACK 2018. They included: Gregor Hohpe (Google Cloud), Steven Murawski (Microsoft), Richard Socher (Salesforce), Danny Burkes (Pivotal), Olivier Klein (Amazon Web Services), Kief Morris (ThoughtWorks), Chang Sau Sheong (SP Group) among others.
+
+**Returning in 2020, STACK will be larger and better, with three days packed with conference, talks, lightning sessions and technical workshops, aimed to engage a community of 3,000 software developers, technical leaders, product managers, designers and other technologists in conversations on how technology is shaping our future.** 
+
+**Call for Proposal**<br>
+The STACK 2020 Call for Proposal is open from **24 June to 30 September 2019**.<br> 
+You may submit your proposal for consideration on the following topics:
+*	Cloud-native technologies (e.g. PaaS, SaaS and server-less)
+*	Cloud security and privacy
+*	Cloud monitoring
+*	Hybrid cloud AI/ML frameworks and platforms
+*	Infrastructure-as-Code
+*	Software architecture using Micro-services/Function-as-a-Service 
+*	Containerisation
+*	Cybersecurity technologies and best practices
+*	Sensors and IoT, Agile and DevOps/DevSecOps/SRE 
+*	UI/UX, Accessibility, user journey approach to design
+*	Ethics of Artificial Intelligence
+*	Diversity in the Tech sector
+*	Technology culture and innovation
+*	Everything else related to software engineering or design
+ 
+**Target Audience** 
+*	Full-Stack Developers
+*	Systems Developers
+*	Cloud Computing Engineers
+*	API Developers
+*	DevOps Engineers
+*	IoT Developers
+*	UX/UI Designers
+*	Cyber Security Specialists
+*	Data Scientists 
+*	Project Managers
+
+**Format**<br>
+
+
+
+
+
  
 STACK is the Government Technology Agency’s (GovTech) first-ever developer conference for developers, programmers and technologists from the public and private sectors.
 
