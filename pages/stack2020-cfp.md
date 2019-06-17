@@ -49,18 +49,18 @@ You may submit your proposal for consideration on the following topics:
 *	Data Scientists 
 *	Project Managers
 
-### **Format**<br>
+### **Format**
 
 <table>
   <tr>
     <td><span style="font-weight:bold">Talks</span></td>
     <td>Deep-dive/In-depth discussions</td>
-    <td>35 mins + 10 mins Q&A</d>
+    <td>35 mins + 10 mins Q&A</td>
   </tr>
   <tr>
     <td><span style="font-weight:bold">Lightning Session</span></td>
     <td>Broad-based sharing or personal experiences</td>
-    <td>15 mins + 5 mins Q&A</d>
+    <td>15 mins + 5 mins Q&A</td>
   </tr>
   <tr>
     <td><span style="font-weight:bold">Technical Workshops</span></td>
