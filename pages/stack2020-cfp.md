@@ -7,9 +7,9 @@ breadcrumb: STACK 2020 Call for Proposal
 
 ![STACK2020 Call for Proposal banner](/images/Stack2020-CFP.jpg)
 
-STACK 2020, GovTech Developer Conference<br>
-30 March to 1 April 2020<br>
-Call for Proposal
+## STACK 2020, GovTech Developer Conference<br>
+## 30 March to 1 April 2020<br>
+## Call for Proposal
 
 ### **About STACK**<br>
 STACK is Government Technology Agency’s (GovTech) flagship conference for developers, architects, designers and technologists. Attended by over 1,500 participants in 2018, STACK is the largest developer-centric event in Singapore dedicated to connecting government, industry and the tech community for cross-sector collaboration.
