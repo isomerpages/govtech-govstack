@@ -98,7 +98,6 @@ Top technologists from the private and public sectors spoke at STACK 2018. They 
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/WMU-5WASrKo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
----
 
 **Event Programme**
 
