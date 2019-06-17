@@ -68,6 +68,23 @@ You may submit your proposal for consideration on the following topics:
   </tr>
 </table>
 
+
+<INTEGRATE FORM.SG TABLE>
+  
+### **Questions?**
+Please contact us at [enquiries@govtechstack.sg](enquiries@govtechstack.sg) if you have any queries. 
+
+### **Content Policy**
+* By submitting your proposal for consideration, you authorise GovTech to publish, promote and disseminate the information submitted, including your name and likeness, in association with the event
+* Please ensure that no confidential or proprietary material are included in submissions. All necessary permissions and copyrights must be obtained by the submitter
+* GovTech reserves the right to edit proposals and presentations for length, clarity, style and other considerations
+* GovTech reserves the right to cancel a talk/lightning talk/workshop, or remove a speaker.
+* Do note that selected speakers will not be reimbursed for travel and expenses
+* Selected speakers and/or their organisation/company will not receive speaking and/or workshop fees but will enjoy a complimentary conference pass and speaker privileges  
+* Submissions received after 30 September 2019 might not be considered
+* Selected speakers will be notified by 31 October 2019.
+
+---
  
 STACK is the Government Technology Agency’s (GovTech) first-ever developer conference for developers, programmers and technologists from the public and private sectors.
 
