@@ -8,8 +8,7 @@ breadcrumb: STACK 2020 Call for Proposal
 ![STACK2020 Call for Proposal banner](/images/Stack2020-CFP.jpg)
 
 ## STACK 2020, GovTech Developer Conference, 30 March to 1 April 2020
-<br>
-## Call for Proposal
+
 
 ### **About STACK**<br>
 STACK is Government Technology Agency’s (GovTech) flagship conference for developers, architects, designers and technologists. Attended by over 1,500 participants in 2018, STACK is the largest developer-centric event in Singapore dedicated to connecting government, industry and the tech community for cross-sector collaboration.
@@ -51,39 +50,21 @@ You may submit your proposal for consideration on the following topics:
 *	Project Managers
 
 ### **Format**<br>
-
 <table>
   <tr>
-    <th>Time</th>
-    <th>Programme</th>
+    <td><span style="font-weight:bold">Talks</span></td>
+    <td>Deep-dive/In-depth discussions</td>
+    <td>35 mins + 10 mins Q&A</d>
   </tr>
   <tr>
-    <td><span style="font-weight:bold">8:30am</span></td>
-    <td>Registration and refreshments</td>
+    <td><span style="font-weight:bold">Lightning Session</span></td>
+    <td>Broad-based sharing or personal experiences</td>
+    <td>15 mins + 5 mins Q&A</d>
   </tr>
   <tr>
-    <td><span style="font-weight:bold">9:30am</span></td>
-    <td><span style="font-weight:bold">Digital Government Blueprint: A Year Later</span><br>Kok Ping Soon, Chief Executive, GovTech</td>
-  </tr>
-  <tr>
-    <td><span style="font-weight:bold">10:00am</span></td>
-    <td><span style="font-weight:bold">Delivering as One Trusted Ecosystem through National Digital Identity</span><br>Kwok Quek Sin, Senior Director, National Digital Identity, GovTech</td>
-  </tr>
-  <tr>
-    <td><span style="font-weight:bold">10:30am</span></td>
-    <td><span style="font-weight:bold">Building for Scale through Micro-services for a Better Citizen Experience</span> <br>Eyung Lim, Director, Digital Design & Development, GovTech</td>
-  </tr>
-  <tr>
-    <td><span style="font-weight:bold">11:00am</span></td>
-    <td><span style="font-weight:bold">New Partnership Models, New Digitalisation Opportunities</span><br>Mah Yu Ling, Director, Procurement, GovTech</td>
-  </tr>
-  <tr>
-    <td><span style="font-weight:bold">11:30am</span></td>
-    <td><span style="font-weight:bold">Panel Discussion<br>Government on Commercial Cloud: Implications & Opportunities</span><br>Moderator: Howie Lau, Chief Industry Development Officer, IMDA</td>
-  </tr>
-  <tr>
-    <td><span style="font-weight:bold">12:00pm</span></td>
-    <td>End of Event</td>
+    <td><span style="font-weight:bold">Technical Workshops</span></td>
+    <td><span style="font-weight:bold">Hands-on technical tutorials</span></td>
+    <td>2.5 to 3 hours</d>
   </tr>
 </table>
 
