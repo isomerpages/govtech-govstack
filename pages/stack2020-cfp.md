@@ -52,7 +52,40 @@ You may submit your proposal for consideration on the following topics:
 
 **Format**<br>
 
-
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Programme</th>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">8:30am</span></td>
+    <td>Registration and refreshments</td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">9:30am</span></td>
+    <td><span style="font-weight:bold">Digital Government Blueprint: A Year Later</span><br>Kok Ping Soon, Chief Executive, GovTech</td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">10:00am</span></td>
+    <td><span style="font-weight:bold">Delivering as One Trusted Ecosystem through National Digital Identity</span><br>Kwok Quek Sin, Senior Director, National Digital Identity, GovTech</td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">10:30am</span></td>
+    <td><span style="font-weight:bold">Building for Scale through Micro-services for a Better Citizen Experience</span> <br>Eyung Lim, Director, Digital Design & Development, GovTech</td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">11:00am</span></td>
+    <td><span style="font-weight:bold">New Partnership Models, New Digitalisation Opportunities</span><br>Mah Yu Ling, Director, Procurement, GovTech</td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">11:30am</span></td>
+    <td><span style="font-weight:bold">Panel Discussion<br>Government on Commercial Cloud: Implications & Opportunities</span><br>Moderator: Howie Lau, Chief Industry Development Officer, IMDA</td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">12:00pm</span></td>
+    <td>End of Event</td>
+  </tr>
+</table>
 
 
 
