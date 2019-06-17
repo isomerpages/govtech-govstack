@@ -7,8 +7,8 @@ breadcrumb: STACK 2020 Call for Proposal
 
 ![STACK2020 Call for Proposal banner](/images/Stack2020-CFP.jpg)
 
-## STACK 2020, GovTech Developer Conference<br>
-## 30 March to 1 April 2020<br>
+## STACK 2020, GovTech Developer Conference, 30 March to 1 April 2020
+<br>
 ## Call for Proposal
 
 ### **About STACK**<br>
