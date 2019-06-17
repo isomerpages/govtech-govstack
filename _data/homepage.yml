@@ -11,10 +11,6 @@ google-analytics: UA-82296306-1
 hero-banner: /images/hero-banner.png
   
 key-highlights:
-  - title: RSVP NOW
-    description: Register your seats now
-    url: https://rsvp.govtechstack.sg
-    external: true
   - title: Speakers' Bio
     description: Details of Speakers & Facilitators 
     url: /speakers-bio
@@ -22,8 +18,8 @@ key-highlights:
     description: "STACK-X: Cloud Programme"
     url: /
     external: true
-  - title: STACK 2018
-    description: Highlights of STACK 2018 
+  - title: STACK 2020
+    description: Call for Proposal 
     url: /stack-2018
 
 # The Programme Sections
