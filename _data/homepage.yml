@@ -33,18 +33,12 @@ info-sections:
   - section-title: 
     section-subtitle: "STACK-X: Cloud"
     section-description: A half-day technology event organised by the Government Technology Agency to share government commercial cloud policy and playbook with developers and technologists from the public and private sectors. Attendees will also learn about how to deploy infrastructure-as-code, build apps and API development in the cloud environment during workshops led by GovTech engineers.
-    section-more-button: Participate Now
-    section-more-button-url: https://rsvp.govtechstack.sg
     section-image-path: /images/about.jpg 
   - section-title: 
     section-subtitle: PROGRAMME
     section-description: "Overview of STACK-X: Cloud"
-    section-more-button: Register Now
-    section-more-button-url: https://rsvp.govtechstack.sg
     section-image-path: /images/programme.png 
   - section-title: 
     section-subtitle: BREAKOUT TRACKS
     section-description: Workshops and deep-dive sessions lead by GovTech Engineers
-    section-more-button: Participate Now
-    section-more-button-url: https://rsvp.govtechstack.sg
     section-image-path: /images/breakout.png
