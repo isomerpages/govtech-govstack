@@ -70,8 +70,13 @@ You may submit your proposal for consideration on the following topics:
 </table>
 
 
-INTEGRATE FORM.SG TABLE HERE
-  
+<div style="font-family: Sans-Serif;font-size: 15px;color: #000;opacity: 0.9; padding-top: 5px; padding-bottom: 8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/5d0757b82ce4bb0011a8a885">here</a>.</div>
+
+<!-- Change the width and height values to suit you best --> 
+<iframe id=iframe src="https://form.gov.sg/5d0757b82ce4bb0011a8a885/embed" style=width:100%;height:500px></iframe>
+
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px">Powered by <a href=https://form.gov.sg style="color: #999">FormSG</a></div>
+
 ### **Questions?**
 Please contact us at [enquiries@govtechstack.sg](enquiries@govtechstack.sg) if you have any queries. 
 
