@@ -36,8 +36,8 @@ You may submit your proposal for consideration on the following topics:
 *	Diversity in the Tech sector
 *	Technology culture and innovation
 *	Everything else related to software engineering or design
- 
-### **Target Audience** 
+
+### **Target Audience**<br> 
 *	Full-Stack Developers
 *	Systems Developers
 *	Cloud Computing Engineers
@@ -50,6 +50,7 @@ You may submit your proposal for consideration on the following topics:
 *	Project Managers
 
 ### **Format**<br>
+
 <table>
   <tr>
     <td><span style="font-weight:bold">Talks</span></td>
