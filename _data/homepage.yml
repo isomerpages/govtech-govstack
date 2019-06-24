@@ -12,7 +12,7 @@ hero-banner: /images/StackX-banner-service-reimagined.jpg
   
 key-highlights:
   - title: Programme
-    description: "STACK-X: Service Redesign Programme"
+    description: STACK-X: Service Redesign Programme
     url: /
     external: true
   - title: Speakers' Bio
@@ -22,14 +22,14 @@ key-highlights:
     description: Call for Proposal 
     url: /stack2020-cfp
   - title: Past Events
-    description: STACK 2018, STACK-X: Cloud 
+    description: STACK 2018 and STACK-X Cloud 
     url: /past-events
 
 # The Programme Sections
 info-sections:
   - section-title: 
     section-subtitle: COMING SOON
-    section-description: "We are excited to bring you the second event under the Stack-X umbrella. While our GovTechies plan something exciting, why not participate in our STACK 2020 Call for Proposal, or read about Stack-X: Cloud below."
+    section-description: "Interested to engage fellow technologists? Participate in our Call for Proposal for STACK 2020."
   - section-title: 
     section-subtitle: "STACK-X: Cloud"
     section-description: A half-day technology event organised by the Government Technology Agency that shared about the government commercial cloud policy and playbook with developers and technologists from the public and private sectors. Attendees learned how to deploy infrastructure-as-code, build apps and API development in the cloud environment during workshops led by GovTech engineers.
