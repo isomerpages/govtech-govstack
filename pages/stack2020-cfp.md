@@ -88,7 +88,7 @@ Please contact us at [stack@tech.gov.sg](stack@tech.gov.sg) if you have any quer
 
 ---
 
-**Highlights of STACK 2018**
+### **Highlights of STACK 2018**
 
 STACK 2018, held in October 2018, brought together over 1,200 developers, programmers and technologists from the public and private sectors.
 
