@@ -54,7 +54,7 @@ You may submit your proposal for consideration on the following topics:
     <td>35 mins + 10 mins Q&A</td>
   </tr>
   <tr>
-    <td><span style="font-weight:bold">Lightning Session</span></td>
+    <td><span style="font-weight:bold">Lightning Sessions</span></td>
     <td>Sharing and personal experiences</td>
     <td>15 mins + 5 mins Q&A</td>
   </tr>
