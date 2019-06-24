@@ -12,7 +12,7 @@ hero-banner: /images/StackX-banner-service-reimagined.jpg
   
 key-highlights:
   - title: Programme
-    description: STACK-X: Service Redesign Programme
+    description: "STACK-X: Service Redesign Programme"
     url: /
     external: true
   - title: Speakers' Bio
