@@ -30,15 +30,16 @@ info-sections:
   - section-title: 
     section-subtitle: STACK 2020, CALL FOR PROPOSAL
     section-description: "Interested to engage fellow technologists? Participate in our Call for Proposal for STACK 2020."
+    section-image-path: /images/STACK2020-Call-for-Proposal-homepage.gif
   - section-title: 
     section-subtitle: "STACK-X: Experience Reimagined"
     section-description: A half-day technology event organised by the Government Technology Agency that shared about the design service standards and technologies with developers and technologists from the public and private sectors. Attendees learned how to utilise different tools during workshops led by GovTech engineers.
-    section-image-path: /images/about.jpg 
+    section-image-path: /images/StackX-Experience-Reimagined-small-banner.png 
   - section-title: 
     section-subtitle: PROGRAMME
-    section-description: "Overview of STACK-X: Cloud"
-    section-image-path: /images/programme.png 
+    section-description: "Overview of STACK-X: Experience Reimagined"
+    section-image-path: /images/StackX-Coming-soon.png 
   - section-title: 
     section-subtitle: BREAKOUT TRACKS
     section-description: Workshops and deep-dive sessions lead by GovTech Engineers
-    section-image-path: /images/breakout.png
+    section-image-path: /images/StackX-Coming-soon.png
