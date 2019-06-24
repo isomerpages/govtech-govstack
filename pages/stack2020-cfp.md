@@ -90,11 +90,11 @@ Please contact us at [stack@tech.gov.sg](stack@tech.gov.sg) if you have any quer
 
 **Highlights of STACK 2018**
 
-STACK 2018 was the Government Technology Agency’s (GovTech) first-ever developer conference for developers, programmers and technologists from the public and private sectors held in October 2018.
+STACK 2018, held in October 2018, brought together over 1,200 developers, programmers and technologists from the public and private sectors.
 
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/WMU-5WASrKo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <br>
-**For the full programme, please click [here](www.govtechstack.sg/past-stackx).**
+**For the full programme, please click [here](www.govtechstack.sg/past-events).**
