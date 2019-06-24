@@ -12,7 +12,7 @@ hero-banner: /images/StackX-banner-service-reimagined.jpg
   
 key-highlights:
   - title: Programme
-    description: "STACK-X: Service Redesign Programme"
+    description: STACK-X: Service Redesign Programme
     url: /
     external: true
   - title: Speakers' Bio
@@ -22,7 +22,7 @@ key-highlights:
     description: Call for Proposal 
     url: /stack2020-cfp
   - title: Past Events
-    description: STACK 2018, STACK-X: Cloud 
+    description: STACK 2018 and STACK-X Cloud 
     url: /past-events
 
 # The Programme Sections
