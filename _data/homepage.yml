@@ -2,53 +2,43 @@
 favicon: /images/favicon-isomer.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/GovTech-Logo-Orange.png
 
 # Google analytics
 google-analytics: UA-82296306-1
 
 # Hero Banner
-hero-banner: /images/hero-banner.png
+hero-banner: /images/StackX-banner-service-reimagined.jpg
   
 key-highlights:
-  - title: RSVP NOW
-    description: Register your seats now
-    url: https://rsvp.govtechstack.sg
+  - title: Programme
+    description: "STACK-X: Service Redesign Programme"
+    url: /
     external: true
   - title: Speakers' Bio
     description: Details of Speakers & Facilitators 
     url: /speakers-bio
-  - title: Programme
-    description: "STACK-X: Cloud Programme"
-    url: /
-    external: true
-  - title: STACK 2018
-    description: Highlights of STACK 2018 
-    url: /stack-2018
+  - title: STACK 2020
+    description: Call for Proposal 
+    url: /stack2020-cfp
+  - title: Past Events
+    description: STACK 2018, STACK-X: Cloud 
+    url: /past-events
 
 # The Programme Sections
 info-sections:
   - section-title: 
+    section-subtitle: COMING SOON
+    section-description: "We are excited to bring you the second event under the Stack-X umbrella. While our GovTechies plan something exciting, why not participate in our STACK 2020 Call for Proposal, or read about Stack-X: Cloud below."
+  - section-title: 
     section-subtitle: "STACK-X: Cloud"
-    section-description: A half-day technology event organised by the Government Technology Agency to share government commercial cloud policy and playbook with developers and technologists from the public and private sectors. Attendees will also learn about how to deploy infrastructure-as-code, build apps and API development in the cloud environment during workshops led by GovTech engineers.
-    section-more-button: Participate Now
-    section-more-button-url: https://rsvp.govtechstack.sg
+    section-description: A half-day technology event organised by the Government Technology Agency that shared about the government commercial cloud policy and playbook with developers and technologists from the public and private sectors. Attendees learned how to deploy infrastructure-as-code, build apps and API development in the cloud environment during workshops led by GovTech engineers.
     section-image-path: /images/about.jpg 
   - section-title: 
     section-subtitle: PROGRAMME
     section-description: "Overview of STACK-X: Cloud"
-    section-more-button: Register Now
-    section-more-button-url: https://rsvp.govtechstack.sg
     section-image-path: /images/programme.png 
   - section-title: 
     section-subtitle: BREAKOUT TRACKS
     section-description: Workshops and deep-dive sessions lead by GovTech Engineers
-    section-more-button: Participate Now
-    section-more-button-url: https://rsvp.govtechstack.sg
     section-image-path: /images/breakout.png
-    
- # Resources Section
-resources-title: 
-resources-subtitle: SPEAKERS' BIO
-resources-more-button: Click Here
-resources-more-button-url: /speakers-bio
