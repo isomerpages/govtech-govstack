@@ -33,7 +33,7 @@ info-sections:
     section-image-path: /images/STACK2020-Call-for-Proposal-homepage.gif
   - section-title: 
     section-subtitle: "STACK-X: Experience Reimagined"
-    section-description: A half-day technology event organised by the Government Technology Agency that shared about the design service standards and technologies with developers and technologists from the public and private sectors. Attendees learned how to utilise different tools during workshops led by GovTech engineers.
+    section-description: Gain insights into the end-to-end customer journey, and learn to tap on technologies and tools that help predict and anticipate user demands for a better user experience. Join us at STACK-X: Experience Reimagined where GovTech and industry experts will share the design thinking process behind their successful customer-centric digital services and products.
     section-image-path: /images/StackX-Experience-Reimagined-small-banner.png 
   - section-title: 
     section-subtitle: PROGRAMME
@@ -41,5 +41,5 @@ info-sections:
     section-image-path: /images/StackX-Coming-soon.png 
   - section-title: 
     section-subtitle: BREAKOUT TRACKS
-    section-description: Workshops and deep-dive sessions lead by GovTech Engineers
+    section-description: Workshops and deep-dive sessions that will be lead by GovTech Engineers
     section-image-path: /images/StackX-Coming-soon.png
