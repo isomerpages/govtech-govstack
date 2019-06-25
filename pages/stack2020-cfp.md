@@ -84,7 +84,7 @@ Please contact us at [stack@tech.gov.sg](stack@tech.gov.sg) if you have any quer
 * GovTech reserves the right to cancel a talk/lightning talk/workshop, or remove a speaker
 * Do note that selected speakers will not be reimbursed for travel and related expenses
 * Selected speakers and/or their organisation/company will not receive speaking and/or workshop fees but will enjoy a complimentary conference pass and speaker privileges
-* Each person can submit up to three proposals
+* Each person can submit up to three proposals. In the event that more than three proposals are received, only the first three will be considered
 * Submissions received after 30 September 2019 might not be considered
 * Selected speakers will be notified by 31 October 2019
 
