@@ -16,7 +16,7 @@ The inaugural event in October 2018 brought together over 1,500 attendees. Notab
 It is aimed at engaging a community of 3,000 software developers, technical leaders, product managers, designers and other technologists in conversations on how technology is shaping our future.** 
 
 ### **STACK 2020 Call for Proposal**
-### Open from **1 July to 30 September 2019**<br> 
+### **1 July to 30 September 2019**
 You may submit your proposal for consideration on the following topics:
 *	Cloud-native technologies (e.g. PaaS, SaaS and server-less)
 *	Cloud security and privacy
