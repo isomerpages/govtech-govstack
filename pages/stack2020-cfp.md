@@ -34,10 +34,10 @@ You may submit your proposal for consideration on the following topics:
 *	Everything else related to software engineering or design
 
 ### **Target Audience**<br> 
-*	Full-Stack Developers
-*	Systems Developers
-*	Cloud Computing Engineers
-*	API Developers
+*	Software Developers
+*	Systems Engineers
+*	Cloud Computing Specialists
+*	Software Architects
 *	DevOps Engineers
 *	IoT Developers
 *	UX/UI Designers
