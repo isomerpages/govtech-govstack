@@ -1,3 +1,64 @@
+---
+layout: simple-page
+permalink: /speakers-bio/
+breadcrumb: Speakers' Bio
+title: Speakers and Workshop facilitators 
+---
+
+## **STACK-X: Service Redesign 2019 Speakers**
+
+<div class="row">
+    <div class="col is-4">
+      <img src="/path/to/Speaker_test_1.jpg"alt="alt text">
+        </a>
+        Some text here
+    </div>
+    <div class="col is-4">
+        <a href="https://www.google.com">
+            <img src="/path/to/image.jpg">
+        </a>
+    </div>
+    <div class="col is-4">
+        <a href="https://www.google.com">
+            <img src="/images/Speaker_test_1.jpg" alt="Speaker test 1 Name">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col is-4">
+        <a href="https://www.google.com">
+            <img src="/path/to/image.jpg" alt="alt text">
+        </a>
+    </div>
+    <div class="col is-4">
+        <a href="https://www.google.com">
+            <img src="/path/to/Speaker_test_1.jpg" alt="alt text">
+        </a>
+    </div>
+    <div class="col is-4">
+        <a href="https://www.google.com">
+            <img src="/path/to/image.jpg" alt="alt text">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col is-4">
+        <a href="https://www.google.com">
+            <img src="/path/to/image.jpg" alt="alt text">
+        </a>
+    </div>
+    <div class="col is-4">
+        <a href="https://www.google.com">
+            <img src="/path/to/image.jpg" alt="alt text">
+        </a>
+    </div>
+    <div class="col is-4">
+        <a href="https://www.google.com">
+            <img src="/path/to/image.jpg" alt="alt text">
+        </a>
+    </div>
+</div>
+
 layout	permalink	breadcrumb	title
 simple-page
 /speakers-bio/

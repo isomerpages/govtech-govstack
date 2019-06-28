@@ -61,7 +61,7 @@ You may submit your proposal for consideration on the following topics:
   </tr>
   <tr>
     <td><span style="font-weight:bold">Technical Workshops</span></td>
-    <td>Hands-on technical tutorials</span></td>
+    <td>Hands-on technical tutorials</td>
     <td>2.5 to 3 hours</td>
   </tr>
 </table>
