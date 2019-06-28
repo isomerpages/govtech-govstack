@@ -20,7 +20,7 @@ title: Speakers and Workshop facilitators
     </div>
     <div class="col is-4">
         <a href="https://www.google.com">
-            <img src="/path/to/image.jpg" alt="alt text">
+            <img src="/images/Speaker_test_1.jpg" alt="Speaker test 1 Name">
         </a>
     </div>
 </div>
