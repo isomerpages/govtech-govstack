@@ -5,7 +5,7 @@ permalink: /stack2020-cfp
 breadcrumb: STACK 2020 Call for Proposal
 ---
 
-![STACK 2020 Call for Proposal banner](/images/Stack2020-CFP.jpg)
+![STACK 2020 Call for Proposal banner](/images/STACK2020-CFP2.png)
 
 ### **About STACK**<br>
 STACK is GovTech's flagship conference, and the largest developer-centric event in Singapore dedicated to connect government, industry and the tech community.
