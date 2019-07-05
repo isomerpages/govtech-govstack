@@ -97,4 +97,4 @@ Please contact us at [stack@tech.gov.sg](stack@tech.gov.sg) if you have any quer
 </div>
 
 <br>
-**For the full programme, please click [here](https://www.govtechstack.sg/past-events).**
+**For the full programme, please click [here](https://www.govtechstack.sg/images/Stack2018_%20Content%20Zones.pdf).**
