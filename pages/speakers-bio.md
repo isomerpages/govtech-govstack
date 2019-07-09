@@ -10,35 +10,35 @@ title: Speakers and Workshop facilitators
 <div class="row">
     <div class="col is-4">
         <a href="https://www.google.com">
-            <img src="/path/to/image.jpg" alt="alt text">
+            <img src="/images/Cheow-Hoe.jpg" alt="Mr Chan Cheow Hoe">
         </a>
         Some text here
     </div>
     <div class="col is-4">
         <a href="https://www.google.com">
-            <img src="/path/to/image.jpg" alt="alt text">
+            <img src="/images/Dominic-Chan.jpg" alt="Mr Dominic Chan">
         </a>
     </div>
     <div class="col is-4">
         <a href="https://www.google.com">
-            <img src="/path/to/image.jpg" alt="alt text">
+            <img src="/images/YangBoon.jpg" alt="Mr Quek Yang Boon">
         </a>
     </div>
 </div>
 <div class="row">
     <div class="col is-4">
         <a href="https://www.google.com">
-            <img src="/path/to/image.jpg" alt="alt text">
+            <img src="/images/Cheow-Hoe.jpg" alt="Mr Chan Cheow Hoe">
         </a>
     </div>
     <div class="col is-4">
         <a href="https://www.google.com">
-            <img src="/path/to/image.jpg" alt="alt text">
+            <img src="/images/Cheow-Hoe.jpg" alt="Mr Chan Cheow Hoe">
         </a>
     </div>
     <div class="col is-4">
         <a href="https://www.google.com">
-            <img src="/path/to/image.jpg" alt="alt text">
+            <img src="/images/Cheow-Hoe.jpg" alt="Mr Chan Cheow Hoe">
         </a>
     </div>
 </div>
