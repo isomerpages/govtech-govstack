@@ -14,7 +14,7 @@ hero-banner: /images/StackX-banner-service-reimagined.jpg
 
 #Call to Action Button
 button:
-  - text: Sign up
+  - text: Sign up today
     url: https://rsvp.govtechstack.sg
   
 key-highlights:
