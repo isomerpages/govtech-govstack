@@ -51,7 +51,7 @@ info-sections:
     section-more-button: More Information
   - section-title: 
     section-subtitle: BREAKOUT TRACKS
-    section-description: Workshops and deep-dive sessions that will be led by GovTech engineers.
+    section-description: Workshops and deep-dive sessions that will be facilitated by GovTech engineers.
     section-image-path: /images/Breakout-track-thumbnail.png
     section-more-button: More Information
     section-more-button-url: /images/Breakout-track-detailed.png
