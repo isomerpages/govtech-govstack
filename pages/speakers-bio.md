@@ -82,6 +82,6 @@ Eyung is also a firm believer and practitioner of the “golden triangle” of p
 
 <a id="johnson-koh"></a>
 ### **Johnson Koh, Principal UX Designer, Application Infrastructure, GovTech**
-Johnson is the Principal UX Designer in GovTech, building UX and UI designs that help to improve the quality of life for Singapore citizens. He is also supporting the digital transformation within the Singapore Government through the creation of [DesignSystem.gov.sg](DesignSystem.gov.sg).
+Johnson is the Principal UX Designer in GovTech, building UX and UI designs that help to improve the quality of life for Singapore citizens. He is also supporting the digital transformation within the Singapore Government through the creation of [DesignSystem.gov.sg](https://designsystem.gov.sg).
 
 Johnson works daily as an artist, designer and casual coder. Prior to joining GovTech, Johnson was the Lead UX Designer in Ubisoft Singapore where he was involved in the making of AAA console and PC games. He also once headed the design team for one of Asia’s leading gaming platforms – Garena, in Singapore.
