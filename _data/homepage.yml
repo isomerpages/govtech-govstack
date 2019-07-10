@@ -21,11 +21,8 @@ key-highlights:
     url: /
     external: true
   - title: Speakers' Bio
-    description: Details of Key Speakers
+    description: Details of Speakers and Facilitators
     url: /speakers-bio
-  - title: Facilitators' Bio
-    description: Details of Workshop Facilitators 
-    url: /breakout-tracks
   - title: STACK 2020
     description: Call for Proposal 
     url: /stack2020-cfp
