@@ -6,7 +6,7 @@ title: Speakers and Workshop facilitators
 ---
 
 ## **STACK-X: Experience Reimagined 2019 Speakers**
-
+<a id="backto-top"></a>
 <div class="row">
     <div class="col is-4">
         <a href="#cheow-hoe">
@@ -49,6 +49,7 @@ As the Government Chief Digital Technology Officer, Cheow Hoe oversees the devel
 In his role as Deputy Chief Executive (Products) at GovTech, Cheow Hoe oversees multi-disciplinary teams that develop and manage key Government digital products, such as the National Digital Identity.
 
 Cheow Hoe has more than two decades of extensive experience both in the public and private sectors, with a strong track record in leading digital transformation changes in organisations and the Government. Prior to joining GovTech, Cheow Hoe held senior appointments in international banks and consulting companies in the areas of technology, operations, finance and business. Cheow Hoe graduated from the National University of Singapore, and obtained his masters from Wharton School.
+*[Back to the top](#backto-top)
 
 <a id="jerald-singh"></a>
 ### **Jerald Singh, Group Head of Product & Design, GRAB**
