@@ -15,12 +15,12 @@ title: Speakers and Workshop facilitators
     </div>
     <div class="col is-4">
         <a href="https://www.google.com">
-            <img src="/images/Cheow-Hoe.jpg" alt="Mr Chan Cheow Hoe">
+            <img src="/images/Jerald-Singh.jpg" alt="Jerald Singh">
         </a>
     </div>
     <div class="col is-4">
         <a href="https://www.google.com">
-            <img src="/images/Cheow-Hoe.jpg" alt="Mr Chan Cheow Hoe">
+            <img src="/images/Keith-Oh.jpg" alt="Mr Keith Oh">
         </a>
     </div>
 </div>
