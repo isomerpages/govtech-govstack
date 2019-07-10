@@ -19,24 +19,24 @@ title: Speakers and Workshop facilitators
         </a>
     </div>
     <div class="col is-4">
-        <a href="keith-oh">
+        <a href="#keith-oh">
             <img src="/images/Keith-Oh.jpg" alt="Mr Keith Oh">
         </a>
     </div>
 </div>
 <div class="row">
     <div class="col is-4">
-        <a href="dominic-chan">
+        <a href="#dominic-chan">
             <img src="/images/Dominic-Chan.jpg" alt="Mr Dominic Chan">
         </a>
     </div>
     <div class="col is-4">
-        <a href="eyung-lim">
+        <a href="#eyung-lim">
             <img src="/images/EyungLim.jpg" alt="Mr Eyung Lim">
         </a>
     </div>
     <div class="col is-4">
-        <a href="johnson-koh">
+        <a href="#johnson-koh">
             <img src="/images/Johnson-Koh.jpg" alt="Mr Johnson Koh">
         </a>
     </div>
