@@ -8,6 +8,8 @@ agency-logo: https://d33wubrfki0l68.cloudfront.net/7b7e8b84b8180770131a2838266cc
 google-analytics: UA-82296306-1
 
 # Hero Banner
+hero-title: <br>
+hero-subtitle: <br>
 hero-banner: /images/StackX-banner-service-reimagined.jpg
 
 #Call to Action Button
