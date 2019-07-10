@@ -61,11 +61,11 @@ title: Workshop facilitators
 
 <a id="fala-shahril"></a>
 ### **Fala Sharil, UX Designer, Digital Design & Development, GovTech**
-Fala Sharil is a UX Designer in GovTech’s Government Digital Services. She is currently extending her skills in Service Design by working on Service Journeys to redesign the citizen experience. Fala strives to create meaningful experiences for users, through a measurable, human-centered design approach. Before diving into UX, she did programming and project management.<br>
+Fala is a UX Designer in GovTech’s Government Digital Services. She is currently extending her skills in Service Design by working on Service Journeys to redesign the citizen experience. Fala strives to create meaningful experiences for users, through a measurable, human-centered design approach. Before diving into UX, she did programming and project management.<br>
 [Back to the top](#backto-top)
 <a id="jeremy-lee"></a>
 ### **Jeremy Lee, Product Manager, Digital Design & Development, GovTech**
-Jeremy Lee is one of GovTech’s product managers who drives the development of the Whole-of-Government Application Analytics platform. His mission is to promote data-informed thinking among Singapore agencies. Prior to joining GovTech, Jeremy co-founded a food tech company that has businesses across seven Asian cities.<br>  
+Jeremy is one of GovTech’s product managers who drives the development of the Whole-of-Government Application Analytics platform. His mission is to promote data-informed thinking among Singapore agencies. Prior to joining GovTech, Jeremy co-founded a food tech company that has businesses across seven Asian cities.<br>  
 [Back to the top](#backto-top)
 <a id="poh-peng"></a>
 ### **Wang Poh Peng, Associate Software Engineer, Agile Consulting and Engineering, GovTech**
