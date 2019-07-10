@@ -41,23 +41,6 @@ title: Speakers and Workshop facilitators
         </a>
     </div>
 </div>
-<div class="row">
-    <div class="col is-4">
-        <a href="https://www.google.com">
-            <img src="/path/to/image.jpg" alt="alt text">
-        </a>
-    </div>
-    <div class="col is-4">
-        <a href="https://www.google.com">
-            <img src="/path/to/image.jpg" alt="alt text">
-        </a>
-    </div>
-    <div class="col is-4">
-        <a href="https://www.google.com">
-            <img src="/path/to/image.jpg" alt="alt text">
-        </a>
-    </div>
-</div>
 
 ### **Chan Cheow Hoe, Government Chief Digital Technology Officer, Smart Nation and Digital Government Office &
 Deputy Chief Executive (Products), GovTech**
@@ -94,6 +77,7 @@ Eyung is also a key driver of whole-of-government (WOG) projects and programmes 
 As a data researcher by training, he strongly advocates the use of data in guiding better design and engineering excellence. Two such initiatives are the A/B Testing on the citizen engagement during the National Day Rally, and the time optimisation for the end-to-end continuous integration and development in the agile development process. Eyung and his team also proposed and implemented Experience-to-Emotion mapping to better understand how user experience drives behaviour.
 
 Eyung is also a firm believer and practitioner of the “golden triangle” of product strategies, design, and engineering excellence as the critical success factors in any product implementation.
+
 
 ### **Johnson Koh, Principal UX Designer, Application Infrastructure, GovTech**
 As the Director of Government Digital Services in GovTech, Eyung has been instrumental in shaping the digital service delivery landscape in Singapore.
