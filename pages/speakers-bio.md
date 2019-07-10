@@ -53,7 +53,9 @@ Cheow Hoe has more than two decades of extensive experience both in the public a
 ### **Jerald Singh, Group Head of Product & Design, GRAB**
 Jerald is a results-driven product leader who serves Grab as the Head of Product and Design, heading the entire product function covering Southeast Asia. He helps the team to iterate better and build out insanely usable, creative products to change peoples’ lives.
 
-Being focused on technologically complex solutions in product development, Jerald has led global product, marketing and design teams to shape impact for change at scale. Over the last decade, Jerald has been recognised as a global leader in the mobile space. Over that time, he worked with leading startups and global consumer internet companies, including Yahoo!, Expedia and Mobiata, while leaving a track record of critically acclaimed mobile experiences. Prior to joining Grab, he led global teams across the USA, India, Singapore, Japan and Korea for Expedia and Mobiata. He has more than 15 years’ experience in tech and always aims to please in building and delivering experiences in elegant, functional products that people love. Originally from Fiji, he grew up in California and now calls Singapore home. His interests include travel, apps and cats (he has two.)
+Being focused on technologically complex solutions in product development, Jerald has led global product, marketing and design teams to shape impact for change at scale. Over the last decade, Jerald has been recognised as a global leader in the mobile space. Over that time, he worked with leading startups and global consumer internet companies, including Yahoo!, Expedia and Mobiata, while leaving a track record of critically acclaimed mobile experiences. Prior to joining Grab, he led global teams across the USA, India, Singapore, Japan and Korea for Expedia and Mobiata. 
+
+He has more than 15 years’ experience in tech and always aims to please in building and delivering experiences in elegant, functional products that people love. Originally from Fiji, he grew up in California and now calls Singapore home. His interests include travel, apps and cats (he has two.)
 
 
 ### **Keith Oh, Head of Product Design, Carousell**
@@ -79,6 +81,6 @@ Eyung is also a firm believer and practitioner of the “golden triangle” of p
 
 
 ### **Johnson Koh, Principal UX Designer, Application Infrastructure, GovTech**
-As the Director of Government Digital Services in GovTech, Eyung has been instrumental in shaping the digital service delivery landscape in Singapore.
+Johnson is the Principal UX Designer in GovTech, building UX and UI designs that help to improve the quality of life for Singapore citizens. He is also supporting the digital transformation within the Singapore Government through the creation of [DesignSystem.gov.sg](DesignSystem.gov.sg).
 
-He envisioned and spearheaded the Digital Experience Design (DXD) Sandbox, to aid government agencies to adopt data-driven and design-based approaches in their digital endeavours. Since its inception in October 2015, the DXD has been successfully deployed in key government projects such as the IRAS MyTax Portal, HDB Resale Portal, MSO OneService, Moments of Life and many more.
+Johnson works daily as an artist, designer and casual coder. Prior to joining GovTech, Johnson was the Lead UX Designer in Ubisoft Singapore where he was involved in the making of AAA console and PC games. He also once headed the design team for one of Asia’s leading gaming platforms – Garena, in Singapore.
