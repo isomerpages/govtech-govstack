@@ -8,8 +8,6 @@ agency-logo: https://d33wubrfki0l68.cloudfront.net/7b7e8b84b8180770131a2838266cc
 google-analytics: UA-82296306-1
 
 # Hero Banner
-hero-title:<br>
-hero-subtitle:<br>
 hero-banner: /images/StackX-banner-service-reimagined.jpg
 
 #Call to Action Button
@@ -38,6 +36,8 @@ info-sections:
     section-subtitle: STACK 2020 CALL FOR PROPOSAL
     section-description: "Interested to engage fellow technologists? Participate in our Call for Proposal for STACK 2020."
     section-image-path: /images/STACK2020-CFP2.png
+    section-more-button: More Information
+    section-more-button-url: /stack2020-cfp
   - section-title: 
     section-subtitle: "STACK-X: Experience Reimagined"
     section-description: Gain insights into the end-to-end customer journey, and learn to tap on technologies and tools that help predict and anticipate user demands for a better user experience. Join us at STACK-X: Experience Reimagined where GovTech and industry experts will share the design thinking process behind their successful customer-centric digital services and products.
