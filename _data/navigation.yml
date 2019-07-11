@@ -1,1 +1,14 @@
-
+- title: Programme
+  url: /
+  external: true
+- title: Speakers' Bio
+  url: /speakers-bio/
+  sub-links:
+  - title: One
+    url: /speakers-bio/
+  - title: Two
+    url: /speakers-bio/
+- title: Stack 2020
+  url: /stack2020-cfp/
+- title: Past Events
+  url: /past-events/

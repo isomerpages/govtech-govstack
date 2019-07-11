@@ -15,20 +15,20 @@ button:
   - text: Join Us
     url: https://rsvp.govtechstack.sg
   
-key-highlights:
-  - title: Programme
-    description: "STACK-X: Experience Reimagined"
-    url: /
-    external: true
-  - title: Speakers' Bio
-    description: Details of Speakers and Facilitators
-    url: /speakers-bio
-  - title: STACK 2020
-    description: Call for Proposal 
-    url: /stack2020-cfp
-  - title: Past Events
-    description: "STACK 2018 and STACK-X: Cloud"
-    url: /past-events
+#key-highlights:
+#  - title: Programme
+#    description: "STACK-X: Experience Reimagined"
+#    url: /
+#    external: true
+#  - title: Speakers' Bio
+#    description: Details of Speakers and Facilitators
+#    url: /speakers-bio
+#  - title: STACK 2020
+#    description: Call for Proposal 
+#    url: /stack2020-cfp
+#  - title: Past Events
+#    description: "STACK 2018 and STACK-X: Cloud"
+#    url: /past-events
 
 # The Programme Sections
 info-sections:
