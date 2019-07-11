@@ -12,23 +12,23 @@ hero-banner: /images/StackX-banner-service-reimagined.jpg
 
 #Call to Action Button
 button:
-  - text: Join Us
+  - text: Register Now
     url: https://rsvp.govtechstack.sg
   
 #key-highlights:
-#  - title: Programme
-#    description: "STACK-X: Experience Reimagined"
-#    url: /
-#    external: true
-#  - title: Speaker Bio
-#    description: Details of Speakers and Facilitators
-#    url: /speakers-bio
-#  - title: CALL FOR PROPOSAL
-#    description: Speak at STACK 2020 
-#    url: /stack2020-cfp
-#  - title: Past Events
-#    description: "STACK 2018 and STACK-X: Cloud"
-#    url: /past-events
+  - title: Programme
+    description: "STACK-X: Experience Reimagined"
+    url: /
+    external: true
+  - title: Speaker Bio
+    description: Details of Speakers and Facilitators
+    url: /speakers-bio
+  - title: Call for Proposal
+    description: Speak at STACK 2020 
+    url: /stack2020-cfp
+  - title: Past Events
+    description: "STACK 2018 and STACK-X: Cloud"
+    url: /past-events
 
 # The Programme Sections
 info-sections:
@@ -50,7 +50,7 @@ info-sections:
     section-image-path: /images/StackX-Coming-soon.png
     section-more-button: More Information
   - section-title: 
-    section-subtitle: BREAKOUT TRACKS
+    section-subtitle: TECHNICAL WORKSHOPS
     section-description: Workshops and deep-dive sessions that will be facilitated by GovTech engineers.
     section-image-path: /images/Breakout-track-thumbnail.png
     section-more-button: More Information
