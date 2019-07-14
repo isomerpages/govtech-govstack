@@ -10,7 +10,7 @@ title: Speakers and Workshop facilitators
 <div class="row">
     <div class="col is-4">
         <a href="#cheow-hoe">
-            <img src="/images/Cheow-Hoe.jpg" alt="Mr Chan Cheow Hoe">
+            <img src="/images/Chan-Cheow-Hoe-V3.jpg" alt="Mr Chan Cheow Hoe">
         </a>
     </div>
     <div class="col is-4">
@@ -32,7 +32,7 @@ title: Speakers and Workshop facilitators
     </div>
     <div class="col is-4">
         <a href="#eyung-lim">
-            <img src="/images/EyungLim.jpg" alt="Mr Eyung Lim">
+            <img src="/images/Eyung-Lim-V2.jpg" alt="Mr Eyung Lim">
         </a>
     </div>
     <div class="col is-4">
