@@ -14,11 +14,6 @@ title: Speakers and Workshop facilitators
         </a>
     </div>
     <div class="col is-4">
-        <a href="#jerald-singh">
-            <img src="/images/Jerald-Singh.jpg" alt="Jerald Singh">
-        </a>
-    </div>
-    <div class="col is-4">
         <a href="#keith-oh">
             <img src="/images/Keith-Oh.jpg" alt="Mr Keith Oh">
         </a>
@@ -49,14 +44,6 @@ As the Government Chief Digital Technology Officer, Cheow Hoe oversees the devel
 In his role as Deputy Chief Executive (Products) at GovTech, Cheow Hoe oversees multi-disciplinary teams that develop and manage key Government digital products, such as the National Digital Identity.
 
 Cheow Hoe has more than two decades of extensive experience both in the public and private sectors, with a strong track record in leading digital transformation changes in organisations and the Government. Prior to joining GovTech, Cheow Hoe held senior appointments in international banks and consulting companies in the areas of technology, operations, finance and business. Cheow Hoe graduated from the National University of Singapore, and obtained his masters from Wharton School.<br>
-[Back to the top](#backto-top)
-<a id="jerald-singh"></a>
-### **Jerald Singh, Group Head of Product & Design, GRAB**
-Jerald is a results-driven product leader who serves Grab as the Head of Product and Design, heading the entire product function covering Southeast Asia. He helps the team to iterate better and build out insanely usable, creative products to change peoples’ lives.
-
-Being focused on technologically complex solutions in product development, Jerald has led global product, marketing and design teams to shape impact for change at scale. Over the last decade, Jerald has been recognised as a global leader in the mobile space. Over that time, he worked with leading startups and global consumer internet companies, including Yahoo!, Expedia and Mobiata, while leaving a track record of critically acclaimed mobile experiences. Prior to joining Grab, he led global teams across the USA, India, Singapore, Japan and Korea for Expedia and Mobiata. 
-
-He has more than 15 years’ experience in tech and always aims to please in building and delivering experiences in elegant, functional products that people love. Originally from Fiji, he grew up in California and now calls Singapore home. His interests include travel, apps and cats (he has two.)<br>
 [Back to the top](#backto-top)
 <a id="keith-oh"></a>
 ### **Keith Oh, Head of Product Design, Carousell**
