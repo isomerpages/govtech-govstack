@@ -60,7 +60,7 @@ He has more than 15 years’ experience in tech and always aims to please in bui
 [Back to the top](#backto-top)
 <a id="keith-oh"></a>
 ### **Keith Oh, Head of Product Design, Carousell**
-Keith is curious about how technology changes the way we work, play and engage with one another. Trained in design, psychology and engineering, he adapts methods and tools from multiple disciplines to create meaningful products, services and experiences. His work has taken him around the world, across multiple industries. Currently, as Head of Product Design at Carousell, Keith often thinks about what a smart, convenient, and community-focused classifieds marketplace can be.<br>
+Keith is curious about how technology changes the way we live. Trained in design, psychology and engineering—it's possible!—he adapts methods and tools from multiple disciplines to create meaningful products, services and experiences across a wide spectrum of industries and markets. Now, as Carousell’s Head of Product Design, Keith constantly thinks about how technology can be used to inspire the world to buy and sell secondhand and live with joy.<br>
 [Back to the top](#backto-top)
 <a id="dominic-chan"></a>
 ### **Dominic Chan, Director, Moments of Life**
