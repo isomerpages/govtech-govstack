@@ -30,33 +30,6 @@ title: Workshop facilitators
             <img src="/images/YangBoon.jpg" alt="Mr Quek Yang Boon">
         </a>
     </div>
-    <div class="col is-4">
-        <a href="https://www.google.com">
-            <img src="/images/Cheow-Hoe.jpg" alt="Mr Chan Cheow Hoe">
-        </a>
-    </div>
-    <div class="col is-4">
-        <a href="https://www.google.com">
-            <img src="/images/Cheow-Hoe.jpg" alt="Mr Chan Cheow Hoe">
-        </a>
-    </div>
-</div>
-<div class="row">
-    <div class="col is-4">
-        <a href="https://www.google.com">
-            <img src="/images/Cheow-Hoe.jpg" alt="Mr Chan Cheow Hoe">
-        </a>
-    </div>
-    <div class="col is-4">
-        <a href="https://www.google.com">
-            <img src="/images/Cheow-Hoe.jpg" alt="Mr Chan Cheow Hoe">
-        </a>
-    </div>
-    <div class="col is-4">
-        <a href="https://www.google.com">
-            <img src="/images/Cheow-Hoe.jpg" alt="Mr Chan Cheow Hoe">
-        </a>
-    </div>
 </div>
 
 <a id="fala-shahril"></a>
