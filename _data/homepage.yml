@@ -16,19 +16,19 @@ button:
     url: https://rsvp.govtechstack.sg
   
 #key-highlights:
-  - title: Programme
-    description: "STACK-X: Experience Reimagined"
-    url: /
-    external: true
-  - title: Speaker Bio
-    description: Details of Speakers and Facilitators
-    url: /speakers-bio
-  - title: Call for Proposal
-    description: Speak at STACK 2020 
-    url: /stack2020-cfp
-  - title: Past Events
-    description: "STACK 2018 and STACK-X: Cloud"
-    url: /past-events
+#  - title: Programme
+#    description: "STACK-X: Experience Reimagined"
+#    url: /
+#    external: true
+#  - title: Speaker Bio
+#    description: Details of Speakers and Facilitators
+#    url: /speakers-bio
+#  - title: Call for Proposal
+#    description: Speak at STACK 2020 
+#    url: /stack2020-cfp
+#  - title: Past Events
+#    description: "STACK 2018 and STACK-X: Cloud"
+#    url: /past-events
 
 # The Programme Sections
 info-sections:
