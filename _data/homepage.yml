@@ -9,11 +9,6 @@ google-analytics: UA-82296306-1
 
 # Hero Banner
 hero-banner: /images/StackX-banner-service-reimagined.jpg
-
-#Call to Action Button
-button:
-  - text: Sign<br>Up
-    url: https://rsvp.govtechstack.sg
   
 #key-highlights:
 #  - title: Programme
