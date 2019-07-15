@@ -9,8 +9,8 @@ title: Workshop facilitators
 <a id="backto-top"></a>
 <div class="row">
     <div class="col is-4">
-        <a href="https://www.google.com">
-            <img src="/images/Cheow-Hoe.jpg" alt="Mr Chan Cheow Hoe">
+        <a href="#fala-sharil">
+            <img src="/images/Fala-Sharil.jpg" alt="Fala Sharil">
         </a>
     </div>
     <div class="col is-4">
