@@ -10,36 +10,44 @@ google-analytics: UA-82296306-1
 # Hero Banner
 hero-banner: /images/StackX-banner-service-reimagined.jpg
   
-key-highlights:
-  - title: Programme
-    description: "STACK-X: Experience Reimagined"
-    url: /
-    external: true
-  - title: Speakers' Bio
-    description: Details of Speakers & Facilitators 
-    url: /speakers-bio
-  - title: STACK 2020
-    description: Call for Proposal 
-    url: /stack2020-cfp
-  - title: Past Events
-    description: "STACK 2018 and STACK-X: Cloud"
-    url: /past-events
+#key-highlights:
+#  - title: Programme
+#    description: "STACK-X: Experience Reimagined"
+#    url: /
+#    external: true
+#  - title: Speaker Bio
+#    description: Details of Speakers and Facilitators
+#    url: /speakers-bio
+#  - title: Call for Proposal
+#    description: Speak at STACK 2020 
+#    url: /stack2020-cfp
+#  - title: Past Events
+#    description: "STACK 2018 and STACK-X: Cloud"
+#    url: /past-events
 
 # The Programme Sections
 info-sections:
   - section-title: 
-    section-subtitle: STACK 2020 CALL FOR PROPOSAL
-    section-description: "Interested to engage fellow technologists? Participate in our Call for Proposal for STACK 2020."
-    section-image-path: /images/STACK2020-CFP2.png
-  - section-title: 
     section-subtitle: "STACK-X: Experience Reimagined"
     section-description: Gain insights into the end-to-end customer journey, and learn to tap on technologies and tools that help predict and anticipate user demands for a better user experience. Join us at STACK-X: Experience Reimagined where GovTech and industry experts will share the design thinking process behind their successful customer-centric digital services and products.
-    section-image-path: /images/StackX-Experience-Reimagined-small-banner.png 
+    section-image-path: /images/StackX-Experience-Reimagined-small-banner.png
+    section-more-button: Register Now
+    section-more-button-url: https://rsvp.govtechstack.sg    
   - section-title: 
     section-subtitle: PROGRAMME
     section-description: "Overview of STACK-X: Experience Reimagined"
-    section-image-path: /images/StackX-Coming-soon.png 
+    section-image-path: /images/StackX-Programme-Experience-Reimagined.png
+    section-more-button-url: /images/StackX-Programme-Experience-Reimagined.png    
+    section-more-button: More Information
   - section-title: 
-    section-subtitle: BREAKOUT TRACKS
-    section-description: Workshops and deep-dive sessions that will be lead by GovTech Engineers
-    section-image-path: /images/StackX-Coming-soon.png
+    section-subtitle: TECHNICAL WORKSHOPS
+    section-description: Workshops and deep-dive sessions that will be facilitated by GovTech engineers. Gain insights into service journeys, learn how to automate app tests and be the first to experience the sensors & IoT Tech Stack. 
+    section-image-path: /images/Breakout-track-thumbnail-V2.png
+    section-more-button: More Information
+    section-more-button-url: /images/Breakout-track-detailedv4.png
+  - section-title: 
+    section-subtitle: STACK 2020 CALL FOR PROPOSAL
+    section-description: Interested to engage fellow technologists? Participate in our Call for Proposal for STACK 2020.
+    section-image-path: /images/STACK2020-CFP3.png
+    section-more-button: More Information
+    section-more-button-url: /stack2020-cfp

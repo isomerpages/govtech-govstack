@@ -15,7 +15,7 @@ The inaugural event in October 2018 brought together over 1,500 attendees. Notab
 **Returning on 30 March to 1 April 2020, the three-day STACK will be larger and better, with a conference, talks, lightning sessions and technical workshops.<br>
 It is aimed at engaging a community of 3,000 software developers, technical leaders, product managers, designers and other technologists in conversations on how technology is shaping our future.** 
 
-### **STACK 2020 Call for Proposal**
+### **STACK 2020 Call for Proposal**<br>
 ### **1 July to 30 September 2019**
 You may submit your proposal for consideration on the following topics:
 *	Cloud-native technologies (e.g. PaaS, SaaS and server-less)
@@ -97,4 +97,4 @@ Please contact us at [stack@tech.gov.sg](stack@tech.gov.sg) if you have any quer
 </div>
 
 <br>
-**For the full programme, please click [here](https://www.govtechstack.sg/past-events).**
+**For the full programme, please click [here](https://www.govtechstack.sg/images/Stack2018_%20Content%20Zones.pdf).**

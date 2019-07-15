@@ -1,1 +1,14 @@
-
+- title: Programme
+  url: /images/StackX-Programme-Experience-Reimagined.png
+  external: true
+- title: Speaker Bio
+  url: /speakers-bio/
+  sub-links:
+  - title: Main Session
+    url: /speakers-bio/
+  - title: Technical Workshops
+    url: /facilitators-bio/
+- title: STACK 2020
+  url: /stack2020-cfp/
+- title: Past Events
+  url: /past-events/
