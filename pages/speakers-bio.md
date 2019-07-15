@@ -2,7 +2,7 @@
 layout: simple-page
 permalink: /speakers-bio/
 breadcrumb: Speakers' Bio
-title: Speakers and Workshop facilitators 
+title: Our Main Speakers 
 ---
 
 ## **STACK-X: Experience Reimagined 2019 Speakers**
