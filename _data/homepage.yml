@@ -41,7 +41,8 @@ info-sections:
   - section-title: 
     section-subtitle: PROGRAMME
     section-description: "Overview of STACK-X: Experience Reimagined"
-    section-image-path: /images/StackX-Coming-soon.png
+    section-image-path: /images/StackX-Programme-Experience-Reimagined.png
+    section-more-button-url: /images/StackX-Programme-Experience-Reimagined.png    
     section-more-button: More Information
   - section-title: 
     section-subtitle: TECHNICAL WORKSHOPS
