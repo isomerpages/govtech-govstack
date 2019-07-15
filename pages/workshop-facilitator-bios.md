@@ -2,7 +2,7 @@
 layout: simple-page
 permalink: /facilitators-bio/
 breadcrumb: Facilitator bios
-title: Workshop facilitators 
+title: Our Workshop Facilitators 
 ---
 
 ## **STACK-X: Experience Reimagined 2019 Workshop facilitators**
