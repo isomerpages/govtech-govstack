@@ -10,7 +10,7 @@ title: Our Workshop Facilitators
 <div class="row">
     <div class="col is-4">
         <a href="#fala-sharil">
-            <img src="/images/Fala-Sharil.jpg" alt="Fala Sharil">
+            <img src="/images/Fala-Sharilv2.jpg" alt="Fala Sharil">
         </a>
     </div>
     <div class="col is-4">
@@ -30,9 +30,31 @@ title: Our Workshop Facilitators
             <img src="/images/YangBoon.jpg" alt="Mr Quek Yang Boon">
         </a>
     </div>
+    <div class="col is-4">
+        <a href="#lee-hong">
+            <img src="/images/Lau-Lee-Hong.jpg" alt="Mr Lau Lee Hong">
+        </a>
+    </div>
+    <div class="col is-4">
+        <a href="#chien-hsing">
+            <img src="/images/Chan-Chien-Hsing.jpg" alt="Mr Chan Chien Hsing">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col is-4">
+        <a href="#kian-hui">
+            <img src="/images/Toh-Kian-Hui.jpg" alt="Mr Toh Kian Hui">
+        </a>
+    </div>
+    <div class="col is-4">
+        <a href="#jun-hong">
+            <img src="/images/Lee-Jun-Hong.jpg" alt="Mr Lee Jun Hong">
+        </a>
+    </div>
 </div>
 
-<a id="fala-shahril"></a>
+<a id="fala-sharil"></a>
 ### **Fala Sharil, UX Designer, Digital Design & Development, GovTech**
 Fala is a UX Designer in GovTech’s Government Digital Services. She is currently extending her skills in Service Design by working on Service Journeys to redesign the citizen experience. Fala strives to create meaningful experiences for users, through a measurable, human-centered design approach. Before diving into UX, she did programming and project management.<br>
 [Back to the top](#backto-top)
@@ -50,4 +72,28 @@ In his free time, he usually rides his LTA-approved e-scooter to explore quaint 
 Yang Boon is the Director of the Sensors and Internet of Things (SIoT) Capability Centre in GovTech. The centre builds sensors and IoT engineering capabilities and explores their applications in the public sector to enhance operational productivity and benefit citizens in realms such as safety, health and environment.
 
 Inspired to share his engineering know-how and contribute to Singapore’s Smart Nation vision, Yang Boon joined GovTech in 2017 after 16 years in the United States. He was previously with Apple (Cupertino, CA), where he was responsible for the design and development of the sensor module of the Digital Crown in the Apple Watch. Before Apple, Yang Boon worked in Texas Instruments (Dallas, Texas) Audio group and had an expatriate stint in Shanghai, China where he helped build and manage an R&D centre.<br>
+[Back to the top](#backto-top)
+<a id="lee-hong"></a>
+### **Lau Lee Hong, Associate Embedded Software Engineer, Sensors & IoT, GovTech**
+Lee Hong is the software lead for the SensorPod and Sensor Node Tech Stack at the Sensors and Internet of Things Capability Centre (SIoT) in GovTech.
+
+Prior to joining GovTech, Lee Hong was a robotics software engineer at Dyson Singapore, where he was involved in the development of the Dyson 360 Heurist. In addition, he has worked on IoT smart systems during its infancy at PalleTech in San Francisco, USA.
+
+He holds a Bachelor of Engineering (Electrical Engineering) from the National University of Singapore (NUS), and is an alumni of NUS College in Silicon Valley.<br>
+[Back to the top](#backto-top)
+<a id="chien-hsing"></a>
+### **Chan Chien Hsing, Senior Systems Engineer, Sensors & IoT, GovTech**
+Chien Hsing is a Software Lead in the Sensors and Internet of Things Capability Centre (SIoT) in GovTech. He has been in the industry for over 10 years with experience in embedded, desktop, server and cloud platforms.
+He holds a Bachelor of Engineering (Computer Engineering) and Master of Technology (Software Engineering) from the National University of Singapore.<br>
+[Back to the top](#backto-top)
+<a id="kian-hui"></a>
+### **Toh Kian Hui, Systems Engineer, Sensors & IoT, GovTech**
+Kian Hui is responsible for the development of Edge Gateway development at the Sensors and Internet of Things Capability Centre (SIoT) in GovTech.
+He holds a Bachelor of Engineering (Hons), Computer Science from Nanyang Technological University.<br>
+[Back to the top](#backto-top)
+<a id="jun-hong"></a>
+### **Lee Jun Hong, Systems Engineer, Sensors & IoT, GovTech**
+Jun Hong works on the architecture design and development of smart sensors and Internet of Things (IoT) end-devices at the Sensors & IoT Capability Center (SIoT).
+
+He has over 15 years of experience working on various embedded system development projects. Jun Hong has a profound interest in technology and enjoys discovering the joys of programming and electronics.<br>
 [Back to the top](#backto-top)

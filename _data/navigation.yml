@@ -1,5 +1,5 @@
 - title: Programme
-  url: /images/StackX-Programme-Experience-Reimagined.png
+  url: /images/StackX-Programme-V3.png
   external: true
 - title: Speaker Bio
   url: /speakers-bio/
@@ -8,7 +8,13 @@
     url: /speakers-bio/
   - title: Technical Workshops
     url: /facilitators-bio/
+- title: Workshops
+  url: /images/Breakout-track-detailedv4.png
+  external: true
 - title: STACK 2020
   url: /stack2020-cfp/
 - title: Past Events
   url: /past-events/
+- title: Register Now
+  url: https://rsvp.govtechstack.sg
+  external: true
