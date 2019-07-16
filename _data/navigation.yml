@@ -8,7 +8,12 @@
     url: /speakers-bio/
   - title: Technical Workshops
     url: /facilitators-bio/
+- title: Workshops
+  url: /images/Breakout-track-detailedv4.png  
 - title: STACK 2020
   url: /stack2020-cfp/
 - title: Past Events
   url: /past-events/
+- title: Register Now
+  url: https://rsvp.govtechstack.sg
+  external: true
