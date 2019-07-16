@@ -14,6 +14,11 @@ title: Our Main Speakers
         </a>
     </div>
     <div class="col is-4">
+        <a href="#jerald-singh">
+            <img src="/images/Jerald-Singh-V2.jpg" alt="Jerald Singh">
+        </a>
+    </div>
+    <div class="col is-4">
         <a href="#keith-oh">
             <img src="/images/Keith-Oh.jpg" alt="Mr Keith Oh">
         </a>
