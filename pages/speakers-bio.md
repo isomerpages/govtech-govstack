@@ -42,6 +42,8 @@ title: Our Main Speakers
     </div>
 </div>
 
+**Apart from our main speakers, do also look out for our [facilitators](https://www.govtechstack.sg/facilitators-bio/) helming the workshops!**
+
 <a id="cheow-hoe"></a>
 ### **Chan Cheow Hoe, Government Chief Digital Technology Officer**
 As the Government Chief Digital Technology Officer, Cheow Hoe oversees the development of the Government’s digital infrastructure and digital technology capability, as well as talent development in information and communication technology and smart systems. He also oversees the development of platforms to enable resource sharing and interoperability across the Government, so as to drive the development and delivery of innovative government digital services for citizens and businesses. 
