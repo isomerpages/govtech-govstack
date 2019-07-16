@@ -10,7 +10,7 @@ title: Our Workshop Facilitators
 <div class="row">
     <div class="col is-4">
         <a href="#fala-sharil">
-            <img src="/images/Fala-Sharil.jpg" alt="Fala Sharil">
+            <img src="/images/Fala-Sharilv2.jpg" alt="Fala Sharil">
         </a>
     </div>
     <div class="col is-4">
