@@ -9,7 +9,8 @@
   - title: Technical Workshops
     url: /facilitators-bio/
 - title: Workshops
-  url: /images/Breakout-track-detailedv4.png  
+  url: /images/Breakout-track-detailedv4.png
+  external: true
 - title: STACK 2020
   url: /stack2020-cfp/
 - title: Past Events
