@@ -13,10 +13,9 @@ title: Our Main Speakers
             <img src="/images/Chan-Cheow-Hoe-V3.jpg" alt="Mr Chan Cheow Hoe">
         </a>
     </div>
-<div class="row">
     <div class="col is-4">
         <a href="#randy-hunt">
-            <img src="/images/Individual-speakers-11.jpg" alt="Mr Randy Hunt">
+            <img src="/images/Individual-speakers-11.jpg" alt="Randy Hunt">
         </a>
     </div>
     <div class="col is-4">
