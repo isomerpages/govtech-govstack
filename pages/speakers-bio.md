@@ -54,7 +54,7 @@ Cheow Hoe has more than two decades of extensive experience both in the public a
 [Back to the top](#backto-top)
 <a id="randy-hunt"></a>
 ### **Randy Hunt, Head of Design, Grab**
-Randy Hunt is the Head of Design at Grab. Previously he was Head of Design at Artsy, where he led a team of designers who define and realize Artsy’s path to be the best place to buy, sell, and learn about art. Prior, he was VP of Design at Etsy for nearly eight years. In 2014, Etsy was honored with the Cooper Hewitt National Design Award for Corporate & Institutional Achievement. 
+Randy Hunt is the Head of Design at Grab. Previously, he was Head of Design at Artsy, where he led a team of designers who defined and realised Artsy’s path to be the best place to buy, sell, and learn about art. Prior to Artsy, Randy was VP of Design at Etsy for nearly eight years. In 2014, Etsy was honored with the Cooper Hewitt National Design Award for Corporate & Institutional Achievement. 
 
 Randy is the author of Product Design for the Web, which explores the evolving discipline of software product design. He also co-founded Supermarket, a curated design marketplace, founded Citizen Scholar Inc. and worked at Milton Glaser Inc.
 <br>
