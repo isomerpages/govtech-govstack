@@ -18,35 +18,36 @@ It is aimed at engaging a community of 3,000 software developers, technical lead
 ### **STACK 2020 Call for Proposal**<br>
 ### **1 July to 30 September 2019**
 You may submit your proposal for consideration on the following topics:
-Cloud
+
+### **Cloud**<br> 
 *	Cloud-native technologies (e.g. PaaS, SaaS and server-less)
 *	Cloud monitoring
 
-Software Engineering
+### **Software Engineering**<br>
 *	Infrastructure-as-Code
 *	Software architecture using Micro-services/Function-as-a-Service 
 *	Containerisation
 *	Software Engineering
 
-Cyber Security
+### **Cyber Security**<br>
 *	Cybersecurity Technologies 
 *	Cybersecurity Best Practices
 *	Cloud Security & Privacy
 
-Agile & DevOps/ DevSecOps & SRE
+### **Agile & DevOps/ DevSecOps & SRE**<br>
 
-Sensor & IoT
+### **Sensor & IoT**<br>
 
-UX/ UI
+### **UX/ UI**<br>
 * Accessibility
 * User Journey Approach Design
 * Design
 
-Data Science
+### **Data Science**<br>
 *	Hybrid cloud 
 * AI/ML Frameworks & Platforms
 
-Technology Culture
+### **Technology Culture**<br>
 *	Ethics of Artificial Intelligence
 *	Diversity in the Tech Sector
 *	Technology Culture & Innovation
