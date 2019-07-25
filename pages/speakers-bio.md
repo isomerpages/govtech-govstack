@@ -47,6 +47,13 @@ In his role as Deputy Chief Executive (Products) at GovTech, Cheow Hoe oversees 
 
 Cheow Hoe has more than two decades of extensive experience both in the public and private sectors, with a strong track record in leading digital transformation changes in organisations and the Government. Prior to joining GovTech, Cheow Hoe held senior appointments in international banks and consulting companies in the areas of technology, operations, finance and business. Cheow Hoe graduated from the National University of Singapore, and obtained his masters from Wharton School.<br>
 [Back to the top](#backto-top)
+<a id="Randy-J.-Hunt"></a>
+### **Randy J. Hunt, Head of Design, Grab**
+Randy J. Hunt is the Head of Design at Grab. Previously he was Head of Design at Artsy, where he led a team of designers who define and realize Artsy’s path to be the best place to buy, sell, and learn about art. Prior, he was VP of Design at Etsy for nearly eight years. In 2014, Etsy was honored with the Cooper Hewitt National Design Award for Corporate & Institutional Achievement. 
+
+Randy is the author of Product Design for the Web, which explores the evolving discipline of software product design. He also co-founded Supermarket, a curated design marketplace, founded Citizen Scholar Inc. and worked at Milton Glaser Inc.
+<br>
+[Back to the top](#backto-top)
 <a id="keith-oh"></a>
 ### **Keith Oh, Head of Product Design, Carousell**
 Keith is curious about how technology changes the way we live. Trained in design, psychology and engineering—it's possible!—he adapts methods and tools from multiple disciplines to create meaningful products, services and experiences across a wide spectrum of industries and markets. Now, as Carousell’s Head of Product Design, Keith constantly thinks about how technology can be used to inspire the world to buy and sell secondhand and live with joy.<br>
