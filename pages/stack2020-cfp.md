@@ -19,35 +19,35 @@ It is aimed at engaging a community of 3,000 software developers, technical lead
 ### **1 July to 30 September 2019**
 You may submit your proposal for consideration on the following topics:
 
-### **Cloud**<br> 
+#### **Cloud**<br> 
 *	Cloud-native technologies (e.g. PaaS, SaaS and server-less)
 *	Cloud monitoring
 
-### **Software Engineering**<br>
+#### **Software Engineering**<br>
 *	Infrastructure-as-Code
 *	Software architecture using Micro-services/Function-as-a-Service 
 *	Containerisation
 *	Software Engineering
 
-### **Cyber Security**<br>
+#### **Cyber Security**<br>
 *	Cybersecurity Technologies 
 *	Cybersecurity Best Practices
 *	Cloud Security & Privacy
 
-### **Agile & DevOps/ DevSecOps & SRE**<br>
+#### **Agile & DevOps/ DevSecOps & SRE**<br>
 
-### **Sensor & IoT**<br>
+#### **Sensor & IoT**<br>
 
-### **UX/ UI**<br>
+#### **UX/ UI**<br>
 * Accessibility
 * User Journey Approach Design
 * Design
 
-### **Data Science**<br>
+#### **Data Science**<br>
 *	Hybrid cloud 
 * AI/ML Frameworks & Platforms
 
-### **Technology Culture**<br>
+#### **Technology Culture**<br>
 *	Ethics of Artificial Intelligence
 *	Diversity in the Tech Sector
 *	Technology Culture & Innovation
