@@ -13,16 +13,10 @@ title: Our Main Speakers
             <img src="/images/Chan-Cheow-Hoe-V3.jpg" alt="Mr Chan Cheow Hoe">
         </a>
     </div>
-    <div class="col is-4">
-        <a href="#keith-oh">
-            <img src="/images/Keith-Oh.jpg" alt="Mr Keith Oh">
-        </a>
-    </div>
-</div>
 <div class="row">
     <div class="col is-4">
-        <a href="#cheow-hoe">
-            <img src="/images/individual-speaker-11.jpg" alt="Mr Randy J. Hunt">
+        <a href="#randy-hunt">
+            <img src="/images/Individual-speakers-11.jpg" alt="Mr Randy Hunt">
         </a>
     </div>
     <div class="col is-4">
@@ -59,7 +53,7 @@ In his role as Deputy Chief Executive (Products) at GovTech, Cheow Hoe oversees 
 
 Cheow Hoe has more than two decades of extensive experience both in the public and private sectors, with a strong track record in leading digital transformation changes in organisations and the Government. Prior to joining GovTech, Cheow Hoe held senior appointments in international banks and consulting companies in the areas of technology, operations, finance and business. Cheow Hoe graduated from the National University of Singapore, and obtained his masters from Wharton School.<br>
 [Back to the top](#backto-top)
-<a id="Randy-J.-Hunt"></a>
+<a id="randy-hunt"></a>
 ### **Randy J. Hunt, Head of Design, Grab**
 Randy J. Hunt is the Head of Design at Grab. Previously he was Head of Design at Artsy, where he led a team of designers who define and realize Artsy’s path to be the best place to buy, sell, and learn about art. Prior, he was VP of Design at Etsy for nearly eight years. In 2014, Etsy was honored with the Cooper Hewitt National Design Award for Corporate & Institutional Achievement. 
 
