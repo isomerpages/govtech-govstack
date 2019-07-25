@@ -21,6 +21,18 @@ title: Our Main Speakers
 </div>
 <div class="row">
     <div class="col is-4">
+        <a href="#cheow-hoe">
+            <img src="/images/individual-speaker-11.jpg" alt="Mr Randy J. Hunt">
+        </a>
+    </div>
+    <div class="col is-4">
+        <a href="#keith-oh">
+            <img src="/images/Keith-Oh.jpg" alt="Mr Keith Oh">
+        </a>
+    </div>
+</div>
+<div class="row">
+    <div class="col is-4">
         <a href="#dominic-chan">
             <img src="/images/Dominic-Chan.jpg" alt="Mr Dominic Chan">
         </a>
