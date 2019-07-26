@@ -53,8 +53,8 @@ In his role as Deputy Chief Executive (Products) at GovTech, Cheow Hoe oversees 
 Cheow Hoe has more than two decades of extensive experience both in the public and private sectors, with a strong track record in leading digital transformation changes in organisations and the Government. Prior to joining GovTech, Cheow Hoe held senior appointments in international banks and consulting companies in the areas of technology, operations, finance and business. Cheow Hoe graduated from the National University of Singapore, and obtained his masters from Wharton School.<br>
 [Back to the top](#backto-top)
 <a id="randy-hunt"></a>
-### **Randy J. Hunt, Head of Design, Grab**
-Randy J. Hunt is the Head of Design at Grab. Previously he was Head of Design at Artsy, where he led a team of designers who define and realize Artsy’s path to be the best place to buy, sell, and learn about art. Prior, he was VP of Design at Etsy for nearly eight years. In 2014, Etsy was honored with the Cooper Hewitt National Design Award for Corporate & Institutional Achievement. 
+### **Randy Hunt, Head of Design, Grab**
+Randy is the Head of Design at Grab. Previously, he was Head of Design at Artsy, where he led a team of designers who defined and realised Artsy’s path to be the best place to buy, sell, and learn about art. Prior to Artsy, Randy was VP of Design at Etsy for nearly eight years. In 2014, Etsy was honoured with the Cooper Hewitt National Design Award for Corporate & Institutional Achievement. 
 
 Randy is the author of Product Design for the Web, which explores the evolving discipline of software product design. He also co-founded Supermarket, a curated design marketplace, founded Citizen Scholar Inc. and worked at Milton Glaser Inc.
 <br>
