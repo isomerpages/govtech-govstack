@@ -27,7 +27,7 @@ You may submit your proposal for consideration on the following topics:
 *	Infrastructure-as-Code
 *	Software architecture using Micro-services/Function-as-a-Service 
 *	Containerisation
-*	Software Engineering
+*	Software Development
 
 #### **Cyber Security**<br>
 *	Cybersecurity Technologies 
