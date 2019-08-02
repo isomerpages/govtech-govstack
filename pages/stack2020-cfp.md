@@ -12,8 +12,11 @@ STACK is GovTech's flagship conference, and the largest developer-centric event 
 
 The inaugural event in October 2018 brought together over 1,500 attendees. Notable speakers included: Gregor Hohpe (Google Cloud), Steven Murawski (Microsoft), Richard Socher (Salesforce), Danny Burkes (Pivotal), Olivier Klein (Amazon Web Services), Kief Morris (ThoughtWorks), Chang Sau Sheong (SP Group) among others.
 
-**Returning on 30 March to 1 April 2020, the three-day STACK will be larger and better, with a conference, talks, lightning sessions and technical workshops.<br>
-It is aimed at engaging a community of 3,000 software developers, technical leaders, product managers, designers and other technologists in conversations on how technology is shaping our future.** 
+**Returning on 30 March to 1 April 2020, the three-day STACK will be larger and better, with a conference, talks, lightning sessions and technical workshops.**
+
+**It is aimed at engaging a community of 3,000 software developers, technical leaders, product managers, designers and other technologists in conversations on how technology is shaping our future.**
+
+**Speakers for STACK 2020 include Martin Fowler (ThoughtWorks), Will Grannis (Google), Armon Dadgar (HashiCorp), Cornelia Davis (Pivotal), and many more!** 
 
 ### **STACK 2020 Call for Proposal**<br>
 ### **1 July to 30 September 2019**
