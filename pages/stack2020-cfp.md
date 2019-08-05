@@ -23,31 +23,34 @@ The inaugural event in October 2018 brought together over 1,500 attendees. Notab
 You may submit your proposal for consideration on the following topics:
 
 #### **Cloud**<br> 
-*	Cloud-native technologies (e.g. PaaS, SaaS and server-less)
+*	Cloud-native technologies 
 *	Cloud monitoring
+* Hybrid Cloud
 
 #### **Software Engineering**<br>
-*	Infrastructure-as-Code
+*	Infrastructure-As-Code
 *	Software architecture using Micro-services/Function-as-a-Service 
 *	Containerisation
 *	Software Development and Quality
 
+#### **Agile**<br>
+* Agile Methodologies
+* DevOps & DevSecOps
+* Software Reliability Engineering
+
 #### **Cyber Security**<br>
-*	Cybersecurity Technologies 
+*	Cybersecurity Trends and Technologies 
 *	Cybersecurity Best Practices
 *	Cloud Security & Privacy
-
-#### **Agile & DevOps/ DevSecOps & SRE**<br>
 
 #### **Sensor & IoT**<br>
 
 #### **UX/ UI**<br>
 * Accessibility
-* User Journey Approach Design
-* Design
+* User / Service Journey Approaches
+* UI Interfaces and Design
 
 #### **Data Science**<br>
-*	Hybrid cloud 
 * AI/ML Frameworks & Platforms
 
 #### **Technology Culture**<br>
