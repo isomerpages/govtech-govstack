@@ -75,7 +75,7 @@ Inspired to share his engineering know-how and contribute to Singapore’s Smart
 [Back to the top](#backto-top)
 <a id="lee-hong"></a>
 ### **Lau Lee Hong, Associate Embedded Software Engineer, Sensors & IoT, GovTech**
-Lee Hong is the software lead for the SensorPod and Sensor Node Tech Stack at the Sensors and Internet of Things Capability Centre (SIoT) in GovTech.
+Lee Hong is the software lead for eMbedded Advanced Network of Micro Computing Applications (MANUCA) at the Sensors and Internet of Things Capability Centre (SIoT) in GovTech.
 
 Prior to joining GovTech, Lee Hong was a robotics software engineer at Dyson Singapore, where he was involved in the development of the Dyson 360 Heurist. In addition, he has worked on IoT smart systems during its infancy at PalleTech in San Francisco, USA.
 
