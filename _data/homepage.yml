@@ -36,13 +36,13 @@ info-sections:
   - section-title: 
     section-subtitle: PROGRAMME
     section-description: "Overview of STACK-X: Experience Reimagined"
-    section-image-path: /images/Programme-V6.png
-    section-more-button-url: /images/Programme-V6.png  
+    section-image-path: /images/Programme-V8.png
+    section-more-button-url: /images/Programme-V8.png  
     section-more-button: More Information
   - section-title: 
     section-subtitle: TECHNICAL WORKSHOPS
     section-description: Workshops and deep-dive sessions that will be facilitated by GovTech engineers. Gain insights into service journeys, learn how to automate app tests and be the first to experience the sensors & IoT Tech Stack. 
-    section-image-path: /images/Breakout-track-thumbnail-V4.png
+    section-image-path: /images/Breakout-track-thumbnail-V6.png
     section-more-button: More Information
     section-more-button-url: /images/Breakout track - detailed_v9.pdf
   - section-title: 
