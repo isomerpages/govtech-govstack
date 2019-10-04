@@ -5,7 +5,7 @@ permalink: /stack2020-cfp
 breadcrumb: STACK 2020 Call for Proposal
 ---
 
-![STACK 2020 Call for Proposal banner](/images/STACK2020-CFP2.png)
+![STACK 2020 Call for Proposal banner]
 
 ### **About STACK**<br>
 STACK is GovTech's flagship conference, and the largest developer-centric event in Singapore dedicated to connect government, industry and the tech community.
@@ -19,7 +19,7 @@ The inaugural event in October 2018 brought together over 1,500 attendees. Notab
 **Speakers for STACK 2020 include Martin Fowler (ThoughtWorks), Will Grannis (Google), Armon Dadgar (HashiCorp), Cornelia Davis (Pivotal), and many more!** 
 
 ### **STACK 2020 Call for Proposal**<br>
-### **1 July to 30 September 2019**
+### **1 July to 15 October 2019**
 You may submit your proposal for consideration on the following topics:
 
 #### **Cloud**<br> 
@@ -110,7 +110,6 @@ Please contact us at [stack@tech.gov.sg](stack@tech.gov.sg) if you have any quer
 * Do note that selected speakers will not be reimbursed for travel and related expenses
 * Selected speakers and/or their organisation/company will not receive speaking and/or workshop fees but will enjoy a complimentary conference pass and speaker privileges
 * Each person can submit up to three proposals. In the event that more than three proposals are received, only the first three will be considered
-* Submissions received after 30 September 2019 might not be considered
 * Selected speakers will be notified by 31 October 2019
 
 ---
